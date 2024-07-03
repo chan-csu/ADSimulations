@@ -1,0 +1,499 @@
+sample-id	plate	well	barcode	owner	sequenced	group	sample-id-2	inoculum	temperature	feedstock	pH	rep	day	type	inoculum_temperature	inoculum_feedstock	inoculum_pH	temperature_feedstock	temperature_pH	feedstock_pH	inoculum_temperature_feedstock	inoculum_temperature_pH	temperature_feedstock_pH	inoculum_temperature_feedstock_pH	day-2	keep	run
+#q2:types	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	numeric	categorical	categorical
+321							A_35_F_5_A_D0	A	35	F	5	A	D0	experiment	A_35	A_F	A_5	35_F	35_5	F_5	A_35_F	A_35_5	35_F_5	A_35_F_5	0	y	R2
+A_35_F_5_B_D0	7	B6	ATACTGAGTGAA	DeLong	yes	DeLong	A_35_F_5_B_D0	A	35	F	5	B	D0	experiment	A_35	A_F	A_5	35_F	35_5	F_5	A_35_F	A_35_5	35_F_5	A_35_F_5	0	y	R1
+253							A_35_F_5_C_D0	A	35	F	5	C	D0	experiment	A_35	A_F	A_5	35_F	35_5	F_5	A_35_F	A_35_5	35_F_5	A_35_F_5	0	y	R2
+355							A_35_F_7_A_D0	A	35	F	7	A	D0	experiment	A_35	A_F	A_7	35_F	35_7	F_7	A_35_F	A_35_7	35_F_7	A_35_F_7	0	y	R2
+264							A_35_F_7_B_D0	A	35	F	7	B	D0	experiment	A_35	A_F	A_7	35_F	35_7	F_7	A_35_F	A_35_7	35_F_7	A_35_F_7	0	y	R2
+326							A_35_F_7_C_D0	A	35	F	7	C	D0	experiment	A_35	A_F	A_7	35_F	35_7	F_7	A_35_F	A_35_7	35_F_7	A_35_F_7	0	y	R2
+A-35-F-9-A-D0							A_35_F_9_A_D0	A	35	F	9	A	D0	experiment	A_35	A_F	A_9	35_F	35_9	F_9	A_35_F	A_35_9	35_F_9	A_35_F_9	0	y	R2
+A-35-F-9-B-D0							A_35_F_9_B_D0	A	35	F	9	B	D0	experiment	A_35	A_F	A_9	35_F	35_9	F_9	A_35_F	A_35_9	35_F_9	A_35_F_9	0	y	R2
+217							A_35_F_9_C_D0	A	35	F	9	C	D0	experiment	A_35	A_F	A_9	35_F	35_9	F_9	A_35_F	A_35_9	35_F_9	A_35_F_9	0	y	R2
+A_45_F_5_A_D0	7	G7	ACACTCATTACT	DeLong	yes	DeLong	A_45_F_5_A_D0	A	45	F	5	A	D0	experiment	A_45	A_F	A_5	45_F	45_5	F_5	A_45_F	A_45_5	45_F_5	A_45_F_5	0	y	R1
+434							A_45_F_5_B_D0	A	45	F	5	B	D0	experiment	A_45	A_F	A_5	45_F	45_5	F_5	A_45_F	A_45_5	45_F_5	A_45_F_5	0	y	R2
+395							A_45_F_7_A_D0	A	45	F	7	A	D0	experiment	A_45	A_F	A_7	45_F	45_7	F_7	A_45_F	A_45_7	45_F_7	A_45_F_7	0	y	R2
+389							A_45_F_7_B_D0	A	45	F	7	B	D0	experiment	A_45	A_F	A_7	45_F	45_7	F_7	A_45_F	A_45_7	45_F_7	A_45_F_7	0	y	R2
+272							A_45_F_7_C_D0	A	45	F	7	C	D0	experiment	A_45	A_F	A_7	45_F	45_7	F_7	A_45_F	A_45_7	45_F_7	A_45_F_7	0	y	R2
+219							A_45_F_9_A_D0	A	45	F	9	A	D0	experiment	A_45	A_F	A_9	45_F	45_9	F_9	A_45_F	A_45_9	45_F_9	A_45_F_9	0	y	R2
+325							A_45_F_9_B_D0	A	45	F	9	B	D0	experiment	A_45	A_F	A_9	45_F	45_9	F_9	A_45_F	A_45_9	45_F_9	A_45_F_9	0	y	R2
+410							A_45_F_9_C_D0	A	45	F	9	C	D0	experiment	A_45	A_F	A_9	45_F	45_9	F_9	A_45_F	A_45_9	45_F_9	A_45_F_9	0	y	R2
+A_35_M_5_A_D0	8	A10	ACGACCTACGCT	DeLong	yes	DeLong	A_35_M_5_A_D0	A	35	M	5	A	D0	experiment	A_35	A_M	A_5	35_M	35_5	M_5	A_35_M	A_35_5	35_M_5	A_35_M_5	0	y	R1
+A-35-M-5-B-D0							A_35_M_5_B_D0	A	35	M	5	B	D0	experiment	A_35	A_M	A_5	35_M	35_5	M_5	A_35_M	A_35_5	35_M_5	A_35_M_5	0	y	R2
+331							A_35_M_5_C_D0	A	35	M	5	C	D0	experiment	A_35	A_M	A_5	35_M	35_5	M_5	A_35_M	A_35_5	35_M_5	A_35_M_5	0	y	R2
+312							A_35_M_7_A_D0	A	35	M	7	A	D0	experiment	A_35	A_M	A_7	35_M	35_7	M_7	A_35_M	A_35_7	35_M_7	A_35_M_7	0	y	R2
+A_35_M_7_B_D0	8	D7	AAGCGTACATTG	DeLong	yes	DeLong	A_35_M_7_B_D0	A	35	M	7	B	D0	experiment	A_35	A_M	A_7	35_M	35_7	M_7	A_35_M	A_35_7	35_M_7	A_35_M_7	0	y	R1
+A-35-M-7-B-D0_R2							A_35_M_7_B_D0_R2	A	35	M	7	B	D0	experiment	A_35	A_M	A_7	35_M	35_7	M_7	A_35_M	A_35_7	35_M_7	A_35_M_7	0	y	R2
+A_35_M_7_C_D0	8	B5	CCAGGGACTTCT	DeLong	yes	DeLong	A_35_M_7_C_D0	A	35	M	7	C	D0	experiment	A_35	A_M	A_7	35_M	35_7	M_7	A_35_M	A_35_7	35_M_7	A_35_M_7	0	y	R1
+359							A_35_M_9_A_D0	A	35	M	9	A	D0	experiment	A_35	A_M	A_9	35_M	35_9	M_9	A_35_M	A_35_9	35_M_9	A_35_M_9	0	y	R2
+391							A_35_M_9_B_D0	A	35	M	9	B	D0	experiment	A_35	A_M	A_9	35_M	35_9	M_9	A_35_M	A_35_9	35_M_9	A_35_M_9	0	y	R2
+246							A_35_M_9_C_D0	A	35	M	9	C	D0	experiment	A_35	A_M	A_9	35_M	35_9	M_9	A_35_M	A_35_9	35_M_9	A_35_M_9	0	y	R2
+A_45_M_5_A_D0	8	D4	ACGCTCCCATCG	DeLong	yes	DeLong	A_45_M_5_A_D0	A	45	M	5	A	D0	experiment	A_45	A_M	A_5	45_M	45_5	M_5	A_45_M	A_45_5	45_M_5	A_45_M_5	0	y	R1
+A_45_M_5_B_D0	8	B11	CACCTCCAAGGT	DeLong	yes	DeLong	A_45_M_5_B_D0	A	45	M	5	B	D0	experiment	A_45	A_M	A_5	45_M	45_5	M_5	A_45_M	A_45_5	45_M_5	A_45_M_5	0	y	R1
+423							A_45_M_5_C_D0	A	45	M	5	C	D0	experiment	A_45	A_M	A_5	45_M	45_5	M_5	A_45_M	A_45_5	45_M_5	A_45_M_5	0	y	R2
+413							A_45_M_7_A_D0	A	45	M	7	A	D0	experiment	A_45	A_M	A_7	45_M	45_7	M_7	A_45_M	A_45_7	45_M_7	A_45_M_7	0	y	R2
+330							A_45_M_7_B_D0	A	45	M	7	B	D0	experiment	A_45	A_M	A_7	45_M	45_7	M_7	A_45_M	A_45_7	45_M_7	A_45_M_7	0	y	R2
+406							A_45_M_7_C_D0	A	45	M	7	C	D0	experiment	A_45	A_M	A_7	45_M	45_7	M_7	A_45_M	A_45_7	45_M_7	A_45_M_7	0	y	R2
+A_45_M_9_A_D0	8	F6	TATAATCCGAGG	DeLong	yes	DeLong	A_45_M_9_A_D0	A	45	M	9	A	D0	experiment	A_45	A_M	A_9	45_M	45_9	M_9	A_45_M	A_45_9	45_M_9	A_45_M_9	0	y	R1
+A_45_M_9_B_D0	7	G11	ATCCATGAGCGT	DeLong	yes	DeLong	A_45_M_9_B_D0	A	45	M	9	B	D0	experiment	A_45	A_M	A_9	45_M	45_9	M_9	A_45_M	A_45_9	45_M_9	A_45_M_9	0	y	R1
+A_45_M_9_C_D0	8	C8	TCAAGATCAAGA	DeLong	yes	DeLong	A_45_M_9_C_D0	A	45	M	9	C	D0	experiment	A_45	A_M	A_9	45_M	45_9	M_9	A_45_M	A_45_9	45_M_9	A_45_M_9	0	y	R1
+B-35-F-5-A-D0							B_35_F_5_A_D0	B	35	F	5	A	D0	experiment	B_35	B_F	B_5	35_F	35_5	F_5	B_35_F	B_35_5	35_F_5	B_35_F_5	0	y	R2
+B-35-F-5-B-D0							B_35_F_5_B_D0	B	35	F	5	B	D0	experiment	B_35	B_F	B_5	35_F	35_5	F_5	B_35_F	B_35_5	35_F_5	B_35_F_5	0	y	R2
+207							B_35_F_5_C_D0	B	35	F	5	C	D0	experiment	B_35	B_F	B_5	35_F	35_5	F_5	B_35_F	B_35_5	35_F_5	B_35_F_5	0	y	R2
+329							B_35_F_7_A_D0	B	35	F	7	A	D0	experiment	B_35	B_F	B_7	35_F	35_7	F_7	B_35_F	B_35_7	35_F_7	B_35_F_7	0	y	R2
+205							B_35_F_7_B_D0	B	35	F	7	B	D0	experiment	B_35	B_F	B_7	35_F	35_7	F_7	B_35_F	B_35_7	35_F_7	B_35_F_7	0	y	R2
+261							B_35_F_7_C_D0	B	35	F	7	C	D0	experiment	B_35	B_F	B_7	35_F	35_7	F_7	B_35_F	B_35_7	35_F_7	B_35_F_7	0	y	R2
+256							B_35_F_9_A_D0	B	35	F	9	A	D0	experiment	B_35	B_F	B_9	35_F	35_9	F_9	B_35_F	B_35_9	35_F_9	B_35_F_9	0	y	R2
+284							B_35_F_9_B_D0	B	35	F	9	B	D0	experiment	B_35	B_F	B_9	35_F	35_9	F_9	B_35_F	B_35_9	35_F_9	B_35_F_9	0	y	R2
+B-35-F-9-C-D0							B_35_F_9_C_D0	B	35	F	9	C	D0	experiment	B_35	B_F	B_9	35_F	35_9	F_9	B_35_F	B_35_9	35_F_9	B_35_F_9	0	y	R2
+B-45-F-5-A-D0							B_45_F_5_A_D0	B	45	F	5	A	D0	experiment	B_45	B_F	B_5	45_F	45_5	F_5	B_45_F	B_45_5	45_F_5	B_45_F_5	0	y	R2
+B_45_F_5_B_D0	8	B9	ACCGATTAGGTA	DeLong	yes	DeLong	B_45_F_5_B_D0	B	45	F	5	B	D0	experiment	B_45	B_F	B_5	45_F	45_5	F_5	B_45_F	B_45_5	45_F_5	B_45_F_5	0	y	R1
+B_45_F_5_C_D0	8	H7	AACTGGAACCCT	DeLong	yes	DeLong	B_45_F_5_C_D0	B	45	F	5	C	D0	experiment	B_45	B_F	B_5	45_F	45_5	F_5	B_45_F	B_45_5	45_F_5	B_45_F_5	0	y	R1
+183	8	B10	ATCGATCCACAG	DeLong	yes	DeLong	B_45_F_7_A_D0	B	45	F	7	A	D0	experiment	B_45	B_F	B_7	45_F	45_7	F_7	B_45_F	B_45_7	45_F_7	B_45_F_7	0	y	R1
+385							B_45_F_7_B_D0	B	45	F	7	B	D0	experiment	B_45	B_F	B_7	45_F	45_7	F_7	B_45_F	B_45_7	45_F_7	B_45_F_7	0	y	R2
+B_45_F_7_C_D0	8	D12	AGCCTGGTACCT	DeLong	yes	DeLong	B_45_F_7_C_D0	B	45	F	7	C	D0	experiment	B_45	B_F	B_7	45_F	45_7	F_7	B_45_F	B_45_7	45_F_7	B_45_F_7	0	y	R1
+182	8	D1	CTTTATGTGTCA	DeLong	yes	DeLong	B_45_F_9_A_D0	B	45	F	9	A	D0	experiment	B_45	B_F	B_9	45_F	45_9	F_9	B_45_F	B_45_9	45_F_9	B_45_F_9	0	y	R1
+B-45-F-9-B-D0							B_45_F_9_B_D0	B	45	F	9	B	D0	experiment	B_45	B_F	B_9	45_F	45_9	F_9	B_45_F	B_45_9	45_F_9	B_45_F_9	0	y	R2
+180	8	H11	GCCAGGCTTCCT	DeLong	yes	DeLong	B_45_F_9_C_D0	B	45	F	9	C	D0	experiment	B_45	B_F	B_9	45_F	45_9	F_9	B_45_F	B_45_9	45_F_9	B_45_F_9	0	y	R1
+B-35-M-5-A-D0							B_35_M_5_A_D0	B	35	M	5	A	D0	experiment	B_35	B_M	B_5	35_M	35_5	M_5	B_35_M	B_35_5	35_M_5	B_35_M_5	0	y	R2
+169							B_35_M_5_B_D0	B	35	M	5	B	D0	experiment	B_35	B_M	B_5	35_M	35_5	M_5	B_35_M	B_35_5	35_M_5	B_35_M_5	0	y	R2
+B-35-M-5-C-D0							B_35_M_5_C_D0	B	35	M	5	C	D0	experiment	B_35	B_M	B_5	35_M	35_5	M_5	B_35_M	B_35_5	35_M_5	B_35_M_5	0	y	R2
+B_35_M_7_A_D0							B_35_M_7_A_D0	B	35	M	7	A	D0	experiment	B_35	B_M	B_7	35_M	35_7	M_7	B_35_M	B_35_7	35_M_7	B_35_M_7	0	y	R2
+255							B_35_M_7_B_D0	B	35	M	7	B	D0	experiment	B_35	B_M	B_7	35_M	35_7	M_7	B_35_M	B_35_7	35_M_7	B_35_M_7	0	y	R2
+343							B_35_M_7_C_D0	B	35	M	7	C	D0	experiment	B_35	B_M	B_7	35_M	35_7	M_7	B_35_M	B_35_7	35_M_7	B_35_M_7	0	y	R2
+288							B_35_M_9_A_D0	B	35	M	9	A	D0	experiment	B_35	B_M	B_9	35_M	35_9	M_9	B_35_M	B_35_9	35_M_9	B_35_M_9	0	y	R2
+B_35_M_9_B_D0	8	C3	AACGTCCTGTGC	DeLong	yes	DeLong	B_35_M_9_B_D0	B	35	M	9	B	D0	experiment	B_35	B_M	B_9	35_M	35_9	M_9	B_35_M	B_35_9	35_M_9	B_35_M_9	0	y	R1
+B-35-M-9-C-D0							B_35_M_9_C_D0	B	35	M	9	C	D0	experiment	B_35	B_M	B_9	35_M	35_9	M_9	B_35_M	B_35_9	35_M_9	B_35_M_9	0	y	R2
+B-45-M-5-A-D0							B_45_M_5_A_D0	B	45	M	5	A	D0	experiment	B_45	B_M	B_5	45_M	45_5	M_5	B_45_M	B_45_5	45_M_5	B_45_M_5	0	y	R2
+B-45-M-5-B-D0							B_45_M_5_B_D0	B	45	M	5	B	D0	experiment	B_45	B_M	B_5	45_M	45_5	M_5	B_45_M	B_45_5	45_M_5	B_45_M_5	0	y	R2
+306							B_45_M_5_C_D0	B	45	M	5	C	D0	experiment	B_45	B_M	B_5	45_M	45_5	M_5	B_45_M	B_45_5	45_M_5	B_45_M_5	0	y	R2
+B_45_M_7_A_D0							B_45_M_7_A_D0	B	45	M	7	A	D0	experiment	B_45	B_M	B_7	45_M	45_7	M_7	B_45_M	B_45_7	45_M_7	B_45_M_7	0	y	R2
+176	8	D2	GGTACTGTACCA	DeLong	yes	DeLong	B_45_M_7_B_D0	B	45	M	7	B	D0	experiment	B_45	B_M	B_7	45_M	45_7	M_7	B_45_M	B_45_7	45_M_7	B_45_M_7	0	y	R1
+B_45_M_7_C_D0	8	B1	ATGGCCTGACTA	DeLong	yes	DeLong	B_45_M_7_C_D0	B	45	M	7	C	D0	experiment	B_45	B_M	B_7	45_M	45_7	M_7	B_45_M	B_45_7	45_M_7	B_45_M_7	0	y	R1
+174							B_45_M_9_A_D0	B	45	M	9	A	D0	experiment	B_45	B_M	B_9	45_M	45_9	M_9	B_45_M	B_45_9	45_M_9	B_45_M_9	0	y	R2
+457							B_45_M_9_A_D0	B	45	M	9	A	D0	experiment	B_45	B_M	B_9	45_M	45_9	M_9	B_45_M	B_45_9	45_M_9	B_45_M_9	0	y	R2
+B_45_M_9_B_D0	8	D9	CCGAGTACAATC	DeLong	yes	DeLong	B_45_M_9_B_D0	B	45	M	9	B	D0	experiment	B_45	B_M	B_9	45_M	45_9	M_9	B_45_M	B_45_9	45_M_9	B_45_M_9	0	y	R1
+B_45_M_9_C_D0	8	B12	CTAAATACCCTT	DeLong	yes	DeLong	B_45_M_9_C_D0	B	45	M	9	C	D0	experiment	B_45	B_M	B_9	45_M	45_9	M_9	B_45_M	B_45_9	45_M_9	B_45_M_9	0	y	R1
+305							T_55_F_5_A_D0	A	55	F	5	A	D0	experiment	A_55	A_F	A_5	55_F	55_5	F_5	A_55_F	A_55_5	55_F_5	A_55_F_5	0	y	R2
+211							T_55_F_5_B_D0	A	55	F	5	B	D0	experiment	A_55	A_F	A_5	55_F	55_5	F_5	A_55_F	A_55_5	55_F_5	A_55_F_5	0	y	R2
+T-55-F-5-C-D0							T_55_F_5_C_D0	A	55	F	5	C	D0	experiment	A_55	A_F	A_5	55_F	55_5	F_5	A_55_F	A_55_5	55_F_5	A_55_F_5	0	y	R2
+T-55-F-7-A-D0							T_55_F_7_A_D0	A	55	F	7	A	D0	experiment	A_55	A_F	A_7	55_F	55_7	F_7	A_55_F	A_55_7	55_F_7	A_55_F_7	0	y	R2
+364							T_55_F_7_B_D0	A	55	F	7	B	D0	experiment	A_55	A_F	A_7	55_F	55_7	F_7	A_55_F	A_55_7	55_F_7	A_55_F_7	0	y	R2
+T_55_F_7_C_D0	8	H12	GCACCAATCTGC	DeLong	yes	DeLong	T_55_F_7_C_D0	A	55	F	7	C	D0	experiment	A_55	A_F	A_7	55_F	55_7	F_7	A_55_F	A_55_7	55_F_7	A_55_F_7	0	y	R1
+336							T_55_F_9_A_D0	A	55	F	9	A	D0	experiment	A_55	A_F	A_9	55_F	55_9	F_9	A_55_F	A_55_9	55_F_9	A_55_F_9	0	y	R2
+416							T_55_F_9_B_D0	A	55	F	9	B	D0	experiment	A_55	A_F	A_9	55_F	55_9	F_9	A_55_F	A_55_9	55_F_9	A_55_F_9	0	y	R2
+T_55_F_9_C_D0	8	H9	CCATCGACGCTC	DeLong	yes	DeLong	T_55_F_9_C_D0	A	55	F	9	C	D0	experiment	A_55	A_F	A_9	55_F	55_9	F_9	A_55_F	A_55_9	55_F_9	A_55_F_9	0	y	R1
+T-55-M-5-A-D0							T_55_M_5_A_D0	A	55	M	5	A	D0	experiment	A_55	A_M	A_5	55_M	55_5	M_5	A_55_M	A_55_5	55_M_5	A_55_M_5	0	y	R2
+303							T_55_M_5_B_D0	A	55	M	5	B	D0	experiment	A_55	A_M	A_5	55_M	55_5	M_5	A_55_M	A_55_5	55_M_5	A_55_M_5	0	y	R2
+415							T_55_M_5_C_D0	A	55	M	5	C	D0	experiment	A_55	A_M	A_5	55_M	55_5	M_5	A_55_M	A_55_5	55_M_5	A_55_M_5	0	y	R2
+349							T_55_M_7_A_D0	A	55	M	7	A	D0	experiment	A_55	A_M	A_7	55_M	55_7	M_7	A_55_M	A_55_7	55_M_7	A_55_M_7	0	y	R2
+408							T_55_M_7_B_D0	A	55	M	7	B	D0	experiment	A_55	A_M	A_7	55_M	55_7	M_7	A_55_M	A_55_7	55_M_7	A_55_M_7	0	y	R2
+T-55-M-7-C-D0							T_55_M_7_C_D0	A	55	M	7	C	D0	experiment	A_55	A_M	A_7	55_M	55_7	M_7	A_55_M	A_55_7	55_M_7	A_55_M_7	0	y	R2
+T_55_M_9_A_D0	8	E2	TCAACTATGTCT	DeLong	yes	DeLong	T_55_M_9_A_D0	A	55	M	9	A	D0	experiment	A_55	A_M	A_9	55_M	55_9	M_9	A_55_M	A_55_9	55_M_9	A_55_M_9	0	y	R1
+447							T_55_M_9_B_D0	A	55	M	9	B	D0	experiment	A_55	A_M	A_9	55_M	55_9	M_9	A_55_M	A_55_9	55_M_9	A_55_M_9	0	y	R2
+T-55-M-9-C-D0							T_55_M_9_C_D0	A	55	M	9	C	D0	experiment	A_55	A_M	A_9	55_M	55_9	M_9	A_55_M	A_55_9	55_M_9	A_55_M_9	0	y	R2
+A_35_F_5_B_D1	8	A12	TGGGACATATCC	DeLong	yes	DeLong	A_35_F_5_B_D1	A	35	F	5	B	D1	experiment	A_35	A_F	A_5	35_F	35_5	F_5	A_35_F	A_35_5	35_F_5	A_35_F_5	1.2	y	R1
+A-35-F-5-C-D1							A_35_F_5_C_D1	A	35	F	5	C	D1	experiment	A_35	A_F	A_5	35_F	35_5	F_5	A_35_F	A_35_5	35_F_5	A_35_F_5	1.2	y	R2
+A-35-F-7-A-D1							A_35_F_7_A_D1	A	35	F	7	A	D1	experiment	A_35	A_F	A_7	35_F	35_7	F_7	A_35_F	A_35_7	35_F_7	A_35_F_7	1.2	y	R2
+A_35_F_7_B_D1							A_35_F_7_B_D1	A	35	F	7	B	D1	experiment	A_35	A_F	A_7	35_F	35_7	F_7	A_35_F	A_35_7	35_F_7	A_35_F_7	1.2	y	R2
+414							A_35_F_7_C_D1	A	35	F	7	C	D1	experiment	A_35	A_F	A_7	35_F	35_7	F_7	A_35_F	A_35_7	35_F_7	A_35_F_7	1.2	y	R2
+350							A_35_F_9_A_D1	A	35	F	9	A	D1	experiment	A_35	A_F	A_9	35_F	35_9	F_9	A_35_F	A_35_9	35_F_9	A_35_F_9	1.2	y	R2
+A-35-F-9-B-D1							A_35_F_9_B_D1	A	35	F	9	B	D1	experiment	A_35	A_F	A_9	35_F	35_9	F_9	A_35_F	A_35_9	35_F_9	A_35_F_9	1.2	y	R2
+A_35_F_9_C_D1	8	G11	ATAATCTAATCC	DeLong	yes	DeLong	A_35_F_9_C_D1	A	35	F	9	C	D1	experiment	A_35	A_F	A_9	35_F	35_9	F_9	A_35_F	A_35_9	35_F_9	A_35_F_9	1.2	y	R1
+378							A_45_F_5_A_D1	A	45	F	5	A	D1	experiment	A_45	A_F	A_5	45_F	45_5	F_5	A_45_F	A_45_5	45_F_5	A_45_F_5	1.2	y	R2
+432							A_45_F_5_B_D1	A	45	F	5	B	D1	experiment	A_45	A_F	A_5	45_F	45_5	F_5	A_45_F	A_45_5	45_F_5	A_45_F_5	1.2	y	R2
+366							A_45_F_5_C_D1	A	45	F	5	C	D1	experiment	A_45	A_F	A_5	45_F	45_5	F_5	A_45_F	A_45_5	45_F_5	A_45_F_5	1.2	y	R2
+310							A_45_F_7_A_D1	A	45	F	7	A	D1	experiment	A_45	A_F	A_7	45_F	45_7	F_7	A_45_F	A_45_7	45_F_7	A_45_F_7	1.2	y	R2
+379							A_45_F_7_B_D1	A	45	F	7	B	D1	experiment	A_45	A_F	A_7	45_F	45_7	F_7	A_45_F	A_45_7	45_F_7	A_45_F_7	1.2	y	R2
+A-45-F-7-C-D1							A_45_F_7_C_D1	A	45	F	7	C	D1	experiment	A_45	A_F	A_7	45_F	45_7	F_7	A_45_F	A_45_7	45_F_7	A_45_F_7	1.2	y	R2
+403							A_45_F_9_A_D1	A	45	F	9	A	D1	experiment	A_45	A_F	A_9	45_F	45_9	F_9	A_45_F	A_45_9	45_F_9	A_45_F_9	1.2	y	R2
+287							A_45_F_9_B_D1	A	45	F	9	B	D1	experiment	A_45	A_F	A_9	45_F	45_9	F_9	A_45_F	A_45_9	45_F_9	A_45_F_9	1.2	y	R2
+275							A_45_F_9_C_D1	A	45	F	9	C	D1	experiment	A_45	A_F	A_9	45_F	45_9	F_9	A_45_F	A_45_9	45_F_9	A_45_F_9	1.2	y	R2
+A-35-M-5-A-D1							A_35_M_5_A_D1	A	35	M	5	A	D1	experiment	A_35	A_M	A_5	35_M	35_5	M_5	A_35_M	A_35_5	35_M_5	A_35_M_5	0.54	y	R2
+259							A_35_M_5_B_D1	A	35	M	5	B	D1	experiment	A_35	A_M	A_5	35_M	35_5	M_5	A_35_M	A_35_5	35_M_5	A_35_M_5	0.54	y	R2
+224							A_35_M_5_C_D1	A	35	M	5	C	D1	experiment	A_35	A_M	A_5	35_M	35_5	M_5	A_35_M	A_35_5	35_M_5	A_35_M_5	0.54	y	R2
+A-35-M-7-A-D1							A_35_M_7_A_D1	A	35	M	7	A	D1	experiment	A_35	A_M	A_7	35_M	35_7	M_7	A_35_M	A_35_7	35_M_7	A_35_M_7	0.54	y	R2
+A_35_M_7_B_D1	8	E3	TATAGAAGAATG	DeLong	yes	DeLong	A_35_M_7_B_D1	A	35	M	7	B	D1	experiment	A_35	A_M	A_7	35_M	35_7	M_7	A_35_M	A_35_7	35_M_7	A_35_M_7	0.54	y	R1
+A_35_M_7_C_D1	8	A7	AAGATTTGCAGC	DeLong	yes	DeLong	A_35_M_7_C_D1	A	35	M	7	C	D1	experiment	A_35	A_M	A_7	35_M	35_7	M_7	A_35_M	A_35_7	35_M_7	A_35_M_7	0.54	y	R1
+A_35_M_9_A_D1	7	G3	GCGTTAACCCAA	DeLong	yes	DeLong	A_35_M_9_A_D1	A	35	M	9	A	D1	experiment	A_35	A_M	A_9	35_M	35_9	M_9	A_35_M	A_35_9	35_M_9	A_35_M_9	0.54	y	R1
+278							A_35_M_9_B_D1	A	35	M	9	B	D1	experiment	A_35	A_M	A_9	35_M	35_9	M_9	A_35_M	A_35_9	35_M_9	A_35_M_9	0.54	y	R2
+A-35-M-9-C-D1							A_35_M_9_C_D1	A	35	M	9	C	D1	experiment	A_35	A_M	A_9	35_M	35_9	M_9	A_35_M	A_35_9	35_M_9	A_35_M_9	0.54	y	R2
+A_45_M_5_A_D1	8	A1	GCTTATTGCTTA	DeLong	yes	DeLong	A_45_M_5_A_D1	A	45	M	5	A	D1	experiment	A_45	A_M	A_5	45_M	45_5	M_5	A_45_M	A_45_5	45_M_5	A_45_M_5	0.54	y	R1
+A_45_M_5_B_D1	8	H8	AGGAATACTCAC	DeLong	yes	DeLong	A_45_M_5_B_D1	A	45	M	5	B	D1	experiment	A_45	A_M	A_5	45_M	45_5	M_5	A_45_M	A_45_5	45_M_5	A_45_M_5	0.54	y	R1
+236							A_45_M_5_C_D1	A	45	M	5	C	D1	experiment	A_45	A_M	A_5	45_M	45_5	M_5	A_45_M	A_45_5	45_M_5	A_45_M_5	0.54	y	R2
+A_45_M_7_A_D1	8	D6	GCGTACGGGTGA	DeLong	yes	DeLong	A_45_M_7_A_D1	A	45	M	7	A	D1	experiment	A_45	A_M	A_7	45_M	45_7	M_7	A_45_M	A_45_7	45_M_7	A_45_M_7	0.54	y	R1
+A_45_M_7_B_D1	8	B2	GCAAGCTGTCTC	DeLong	yes	DeLong	A_45_M_7_B_D1	A	45	M	7	B	D1	experiment	A_45	A_M	A_7	45_M	45_7	M_7	A_45_M	A_45_7	45_M_7	A_45_M_7	0.54	y	R1
+419							A_45_M_7_C_D1	A	45	M	7	C	D1	experiment	A_45	A_M	A_7	45_M	45_7	M_7	A_45_M	A_45_7	45_M_7	A_45_M_7	0.54	y	R2
+382							A_45_M_9_A_D1	A	45	M	9	A	D1	experiment	A_45	A_M	A_9	45_M	45_9	M_9	A_45_M	A_45_9	45_M_9	A_45_M_9	0.54	y	R2
+271							A_45_M_9_B_D1	A	45	M	9	B	D1	experiment	A_45	A_M	A_9	45_M	45_9	M_9	A_45_M	A_45_9	45_M_9	A_45_M_9	0.54	y	R2
+A_45_M_9_C_D1	8	F11	GGAAGCTTAACT	DeLong	yes	DeLong	A_45_M_9_C_D1	A	45	M	9	C	D1	experiment	A_45	A_M	A_9	45_M	45_9	M_9	A_45_M	A_45_9	45_M_9	A_45_M_9	0.54	y	R1
+352							B_35_F_5_A_D1	B	35	F	5	A	D1	experiment	B_35	B_F	B_5	35_F	35_5	F_5	B_35_F	B_35_5	35_F_5	B_35_F_5	1.7	y	R2
+B-35-F-5-B-D1							B_35_F_5_B_D1	B	35	F	5	B	D1	experiment	B_35	B_F	B_5	35_F	35_5	F_5	B_35_F	B_35_5	35_F_5	B_35_F_5	1.7	y	R2
+B-35-F-5-C-D1							B_35_F_5_C_D1	B	35	F	5	C	D1	experiment	B_35	B_F	B_5	35_F	35_5	F_5	B_35_F	B_35_5	35_F_5	B_35_F_5	1.7	y	R2
+B_35_F_7_A_D1	8	C5	GAGGTATTCTGA	DeLong	yes	DeLong	B_35_F_7_A_D1	B	35	F	7	A	D1	experiment	B_35	B_F	B_7	35_F	35_7	F_7	B_35_F	B_35_7	35_F_7	B_35_F_7	1.7	y	R1
+428							B_35_F_7_B_D1	B	35	F	7	B	D1	experiment	B_35	B_F	B_7	35_F	35_7	F_7	B_35_F	B_35_7	35_F_7	B_35_F_7	1.7	y	R2
+B_35_F_7_C_D1	8	A8	AACCGATGTACC	DeLong	yes	DeLong	B_35_F_7_C_D1	B	35	F	7	C	D1	experiment	B_35	B_F	B_7	35_F	35_7	F_7	B_35_F	B_35_7	35_F_7	B_35_F_7	1.7	y	R1
+353							B_35_F_9_A_D1	B	35	F	9	A	D1	experiment	B_35	B_F	B_9	35_F	35_9	F_9	B_35_F	B_35_9	35_F_9	B_35_F_9	1.7	y	R2
+374							B_35_F_9_B_D1	B	35	F	9	B	D1	experiment	B_35	B_F	B_9	35_F	35_9	F_9	B_35_F	B_35_9	35_F_9	B_35_F_9	1.7	y	R2
+234							B_35_F_9_C_D1	B	35	F	9	C	D1	experiment	B_35	B_F	B_9	35_F	35_9	F_9	B_35_F	B_35_9	35_F_9	B_35_F_9	1.7	y	R2
+B_45_F_5_A_D1	7	C1	TCCGACCCGATC	DeLong	yes	DeLong	B_45_F_5_A_D1	B	45	F	5	A	D1	experiment	B_45	B_F	B_5	45_F	45_5	F_5	B_45_F	B_45_5	45_F_5	B_45_F_5	1.7	y	R1
+B-45-F-5-B-D1							B_45_F_5_B_D1	B	45	F	5	B	D1	experiment	B_45	B_F	B_5	45_F	45_5	F_5	B_45_F	B_45_5	45_F_5	B_45_F_5	1.7	y	R2
+327							B_45_F_5_C_D1	B	45	F	5	C	D1	experiment	B_45	B_F	B_5	45_F	45_5	F_5	B_45_F	B_45_5	45_F_5	B_45_F_5	1.7	y	R2
+B_45_F_7_A_D1	7	E1	ACATCAGGTCAC	DeLong	yes	DeLong	B_45_F_7_A_D1	B	45	F	7	A	D1	experiment	B_45	B_F	B_7	45_F	45_7	F_7	B_45_F	B_45_7	45_F_7	B_45_F_7	1.7	y	R1
+315							B_45_F_7_C_D1	B	45	F	7	C	D1	experiment	B_45	B_F	B_7	45_F	45_7	F_7	B_45_F	B_45_7	45_F_7	B_45_F_7	1.7	y	R2
+B_45_F_9_A_D1							B_45_F_9_A_D1	B	45	F	9	A	D1	experiment	B_45	B_F	B_9	45_F	45_9	F_9	B_45_F	B_45_9	45_F_9	B_45_F_9	1.7	y	R2
+B_45_F_9_B_D1	8	F5	AGACAAGCTTCC	DeLong	yes	DeLong	B_45_F_9_B_D1	B	45	F	9	B	D1	experiment	B_45	B_F	B_9	45_F	45_9	F_9	B_45_F	B_45_9	45_F_9	B_45_F_9	1.7	y	R1
+181	8	G10	GTTCCCAACGGT	DeLong	yes	DeLong	B_45_F_9_C_D1	B	45	F	9	C	D1	experiment	B_45	B_F	B_9	45_F	45_9	F_9	B_45_F	B_45_9	45_F_9	B_45_F_9	1.7	y	R1
+B_35_M_5_A_D1	8	B3	ATCACATTCTCC	DeLong	yes	DeLong	B_35_M_5_A_D1	B	35	M	5	A	D1	experiment	B_35	B_M	B_5	35_M	35_5	M_5	B_35_M	B_35_5	35_M_5	B_35_M_5	1.5	y	R1
+B_35_M_5_B_D1	8	C10	TACTAGATATTA	DeLong	yes	DeLong	B_35_M_5_B_D1	B	35	M	5	B	D1	experiment	B_35	B_M	B_5	35_M	35_5	M_5	B_35_M	B_35_5	35_M_5	B_35_M_5	1.5	y	R1
+B_35_M_5_C_D1	8	A9	GCCTTACGATAG	DeLong	yes	DeLong	B_35_M_5_C_D1	B	35	M	5	C	D1	experiment	B_35	B_M	B_5	35_M	35_5	M_5	B_35_M	B_35_5	35_M_5	B_35_M_5	1.5	y	R1
+B_35_M_7_A_D1	8	B8	ATTAATGAAGCG	DeLong	yes	DeLong	B_35_M_7_A_D1	B	35	M	7	A	D1	experiment	B_35	B_M	B_7	35_M	35_7	M_7	B_35_M	B_35_7	35_M_7	B_35_M_7	1.5	y	R1
+334							B_35_M_7_B_D1	B	35	M	7	B	D1	experiment	B_35	B_M	B_7	35_M	35_7	M_7	B_35_M	B_35_7	35_M_7	B_35_M_7	1.5	y	R2
+B-35-M-7-C-D1							B_35_M_7_C_D1	B	35	M	7	C	D1	experiment	B_35	B_M	B_7	35_M	35_7	M_7	B_35_M	B_35_7	35_M_7	B_35_M_7	1.5	y	R2
+418							B_35_M_9_A_D1	B	35	M	9	A	D1	experiment	B_35	B_M	B_9	35_M	35_9	M_9	B_35_M	B_35_9	35_M_9	B_35_M_9	1.5	y	R2
+B_35_M_9_B_D1	7	F5	GTTGGGATCCTC	DeLong	yes	DeLong	B_35_M_9_B_D1	B	35	M	9	B	D1	experiment	B_35	B_M	B_9	35_M	35_9	M_9	B_35_M	B_35_9	35_M_9	B_35_M_9	1.5	y	R1
+B_35_M_9_C_D1	8	F4	TGAGTTCGGTCC	DeLong	yes	DeLong	B_35_M_9_C_D1	B	35	M	9	C	D1	experiment	B_35	B_M	B_9	35_M	35_9	M_9	B_35_M	B_35_9	35_M_9	B_35_M_9	1.5	y	R1
+351							B_45_M_5_A_D1	B	45	M	5	A	D1	experiment	B_45	B_M	B_5	45_M	45_5	M_5	B_45_M	B_45_5	45_M_5	B_45_M_5	1.5	y	R2
+407							B_45_M_5_B_D1	B	45	M	5	B	D1	experiment	B_45	B_M	B_5	45_M	45_5	M_5	B_45_M	B_45_5	45_M_5	B_45_M_5	1.5	y	R2
+B-45-M-5-C-D1							B_45_M_5_C_D1	B	45	M	5	C	D1	experiment	B_45	B_M	B_5	45_M	45_5	M_5	B_45_M	B_45_5	45_M_5	B_45_M_5	1.5	y	R2
+291							B_45_M_7_A_D1	B	45	M	7	A	D1	experiment	B_45	B_M	B_7	45_M	45_7	M_7	B_45_M	B_45_7	45_M_7	B_45_M_7	1.5	y	R2
+B-45-M-7-B-D1							B_45_M_7_B_D1	B	45	M	7	B	D1	experiment	B_45	B_M	B_7	45_M	45_7	M_7	B_45_M	B_45_7	45_M_7	B_45_M_7	1.5	y	R2
+175							B_45_M_7_C_D1	B	45	M	7	C	D1	experiment	B_45	B_M	B_7	45_M	45_7	M_7	B_45_M	B_45_7	45_M_7	B_45_M_7	1.5	y	R2
+B-45-M-7-C-D1							B_45_M_7_C_D1	B	45	M	7	C	D1	experiment	B_45	B_M	B_7	45_M	45_7	M_7	B_45_M	B_45_7	45_M_7	B_45_M_7	1.5	y	R2
+173	8	G9	ACAATCCCGAGT	DeLong	yes	DeLong	B_45_M_9_A_D1	B	45	M	9	A	D1	experiment	B_45	B_M	B_9	45_M	45_9	M_9	B_45_M	B_45_9	45_M_9	B_45_M_9	1.5	y	R1
+B-45-M-9-B-D1							B_45_M_9_B_D1	B	45	M	9	B	D1	experiment	B_45	B_M	B_9	45_M	45_9	M_9	B_45_M	B_45_9	45_M_9	B_45_M_9	1.5	y	R2
+172	8	E8	AAGTGCTTGGTA	DeLong	yes	DeLong	B_45_M_9_C_D1	B	45	M	9	C	D1	experiment	B_45	B_M	B_9	45_M	45_9	M_9	B_45_M	B_45_9	45_M_9	B_45_M_9	1.5	y	R1
+228							T_55_F_5_A_D1	A	55	F	5	A	D1	experiment	A_55	A_F	A_5	55_F	55_5	F_5	A_55_F	A_55_5	55_F_5	A_55_F_5	0.75	y	R2
+T-55-F-5-B-D1							T_55_F_5_B_D1	A	55	F	5	B	D1	experiment	A_55	A_F	A_5	55_F	55_5	F_5	A_55_F	A_55_5	55_F_5	A_55_F_5	0.75	y	R2
+T-55-F-5-C-D1							T_55_F_5_C_D1	A	55	F	5	C	D1	experiment	A_55	A_F	A_5	55_F	55_5	F_5	A_55_F	A_55_5	55_F_5	A_55_F_5	0.75	y	R2
+361							T_55_F_7_A_D1	A	55	F	7	A	D1	experiment	A_55	A_F	A_7	55_F	55_7	F_7	A_55_F	A_55_7	55_F_7	A_55_F_7	0.75	y	R2
+420							T_55_F_7_B_D1	A	55	F	7	B	D1	experiment	A_55	A_F	A_7	55_F	55_7	F_7	A_55_F	A_55_7	55_F_7	A_55_F_7	0.75	y	R2
+T_55_F_7_C_D1	8	G4	CTCAGGAGACTT	DeLong	yes	DeLong	T_55_F_7_C_D1	A	55	F	7	C	D1	experiment	A_55	A_F	A_7	55_F	55_7	F_7	A_55_F	A_55_7	55_F_7	A_55_F_7	0.75	y	R1
+295							T_55_F_9_A_D1	A	55	F	9	A	D1	experiment	A_55	A_F	A_9	55_F	55_9	F_9	A_55_F	A_55_9	55_F_9	A_55_F_9	0.75	y	R2
+T-55-F-9-B-D1							T_55_F_9_B_D1	A	55	F	9	B	D1	experiment	A_55	A_F	A_9	55_F	55_9	F_9	A_55_F	A_55_9	55_F_9	A_55_F_9	0.75	y	R2
+292							T_55_F_9_C_D1	A	55	F	9	C	D1	experiment	A_55	A_F	A_9	55_F	55_9	F_9	A_55_F	A_55_9	55_F_9	A_55_F_9	0.75	y	R2
+225							T_55_M_5_A_D1	A	55	M	5	A	D1	experiment	A_55	A_M	A_5	55_M	55_5	M_5	A_55_M	A_55_5	55_M_5	A_55_M_5	1.5	y	R2
+426							T_55_M_5_B_D1	A	55	M	5	B	D1	experiment	A_55	A_M	A_5	55_M	55_5	M_5	A_55_M	A_55_5	55_M_5	A_55_M_5	1.5	y	R2
+220							T_55_M_5_C_D1	A	55	M	5	C	D1	experiment	A_55	A_M	A_5	55_M	55_5	M_5	A_55_M	A_55_5	55_M_5	A_55_M_5	1.5	y	R2
+398							T_55_M_7_A_D1	A	55	M	7	A	D1	experiment	A_55	A_M	A_7	55_M	55_7	M_7	A_55_M	A_55_7	55_M_7	A_55_M_7	1.5	y	R2
+317							T_55_M_7_B_D1	A	55	M	7	B	D1	experiment	A_55	A_M	A_7	55_M	55_7	M_7	A_55_M	A_55_7	55_M_7	A_55_M_7	1.5	y	R2
+T-55-M-7-C-D1							T_55_M_7_C_D1	A	55	M	7	C	D1	experiment	A_55	A_M	A_7	55_M	55_7	M_7	A_55_M	A_55_7	55_M_7	A_55_M_7	1.5	y	R2
+221							T_55_M_9_A_D1	A	55	M	9	A	D1	experiment	A_55	A_M	A_9	55_M	55_9	M_9	A_55_M	A_55_9	55_M_9	A_55_M_9	1.5	y	R2
+344							T_55_M_9_B_D1	A	55	M	9	B	D1	experiment	A_55	A_M	A_9	55_M	55_9	M_9	A_55_M	A_55_9	55_M_9	A_55_M_9	1.5	y	R2
+T_55_M_9_C_D1	8	G3	GTCTATACATAT	DeLong	yes	DeLong	T_55_M_9_C_D1	A	55	M	9	C	D1	experiment	A_55	A_M	A_9	55_M	55_9	M_9	A_55_M	A_55_9	55_M_9	A_55_M_9	1.5	y	R1
+363							A_35_F_5_A_D2	A	35	F	5	A	D2	experiment	A_35	A_F	A_5	35_F	35_5	F_5	A_35_F	A_35_5	35_F_5	A_35_F_5	3.3	y	R2
+339							A_35_F_5_B_D2	A	35	F	5	B	D2	experiment	A_35	A_F	A_5	35_F	35_5	F_5	A_35_F	A_35_5	35_F_5	A_35_F_5	3.3	y	R2
+276							A_35_F_5_C_D2	A	35	F	5	C	D2	experiment	A_35	A_F	A_5	35_F	35_5	F_5	A_35_F	A_35_5	35_F_5	A_35_F_5	3.3	y	R2
+430							A_35_F_7_B_D2	A	35	F	7	B	D2	experiment	A_35	A_F	A_7	35_F	35_7	F_7	A_35_F	A_35_7	35_F_7	A_35_F_7	3.3	y	R2
+A-35-F-7-C-D2							A_35_F_7_C_D2	A	35	F	7	C	D2	experiment	A_35	A_F	A_7	35_F	35_7	F_7	A_35_F	A_35_7	35_F_7	A_35_F_7	3.3	y	R2
+365							A_35_F_9_A_D2	A	35	F	9	A	D2	experiment	A_35	A_F	A_9	35_F	35_9	F_9	A_35_F	A_35_9	35_F_9	A_35_F_9	3.3	y	R2
+442							A_35_F_9_B_D2	A	35	F	9	B	D2	experiment	A_35	A_F	A_9	35_F	35_9	F_9	A_35_F	A_35_9	35_F_9	A_35_F_9	3.3	y	R2
+230							A_35_F_9_C_D2	A	35	F	9	C	D2	experiment	A_35	A_F	A_9	35_F	35_9	F_9	A_35_F	A_35_9	35_F_9	A_35_F_9	3.3	y	R2
+A-45-F-5-A-D2							A_45_F_5_A_D2	A	45	F	5	A	D2	experiment	A_45	A_F	A_5	45_F	45_5	F_5	A_45_F	A_45_5	45_F_5	A_45_F_5	3.3	y	R2
+412							A_45_F_5_B_D2	A	45	F	5	B	D2	experiment	A_45	A_F	A_5	45_F	45_5	F_5	A_45_F	A_45_5	45_F_5	A_45_F_5	3.3	y	R2
+388							A_45_F_5_C_D2	A	45	F	5	C	D2	experiment	A_45	A_F	A_5	45_F	45_5	F_5	A_45_F	A_45_5	45_F_5	A_45_F_5	3.3	y	R2
+265							A_45_F_7_A_D2	A	45	F	7	A	D2	experiment	A_45	A_F	A_7	45_F	45_7	F_7	A_45_F	A_45_7	45_F_7	A_45_F_7	3.3	y	R2
+A_45_F_7_B_D2	8	F8	AGTTTGCGAGAT	DeLong	yes	DeLong	A_45_F_7_B_D2	A	45	F	7	B	D2	experiment	A_45	A_F	A_7	45_F	45_7	F_7	A_45_F	A_45_7	45_F_7	A_45_F_7	3.3	y	R1
+290							A_45_F_7_C_D2	A	45	F	7	C	D2	experiment	A_45	A_F	A_7	45_F	45_7	F_7	A_45_F	A_45_7	45_F_7	A_45_F_7	3.3	y	R2
+A_45_F_9_A_D2	7	E9	GTGGCGCATGGA	DeLong	yes	DeLong	A_45_F_9_A_D2	A	45	F	9	A	D2	experiment	A_45	A_F	A_9	45_F	45_9	F_9	A_45_F	A_45_9	45_F_9	A_45_F_9	3.3	y	R1
+A_45_F_9_B_D2	8	F12	GACAATTCCGAA	DeLong	yes	DeLong	A_45_F_9_B_D2	A	45	F	9	B	D2	experiment	A_45	A_F	A_9	45_F	45_9	F_9	A_45_F	A_45_9	45_F_9	A_45_F_9	3.3	y	R1
+A-45-F-9-B-D2_R2							A_45_F_9_B_D2_R2	A	45	F	9	B	D2	experiment	A_45	A_F	A_9	45_F	45_9	F_9	A_45_F	A_45_9	45_F_9	A_45_F_9	3.3	y	R2
+235							A_45_F_9_C_D2	A	45	F	9	C	D2	experiment	A_45	A_F	A_9	45_F	45_9	F_9	A_45_F	A_45_9	45_F_9	A_45_F_9	3.3	y	R2
+A-35-M-5-A-D2							A_35_M_5_A_D2	A	35	M	5	A	D2	experiment	A_35	A_M	A_5	35_M	35_5	M_5	A_35_M	A_35_5	35_M_5	A_35_M_5	3.48	y	R2
+215							A_35_M_5_B_D2	A	35	M	5	B	D2	experiment	A_35	A_M	A_5	35_M	35_5	M_5	A_35_M	A_35_5	35_M_5	A_35_M_5	3.48	y	R2
+340							A_35_M_5_C_D2	A	35	M	5	C	D2	experiment	A_35	A_M	A_5	35_M	35_5	M_5	A_35_M	A_35_5	35_M_5	A_35_M_5	3.48	y	R2
+A-35-M-7-A-D2							A_35_M_7_A_D2	A	35	M	7	A	D2	experiment	A_35	A_M	A_7	35_M	35_7	M_7	A_35_M	A_35_7	35_M_7	A_35_M_7	3.48	y	R2
+A_35_M_7_B_D2	8	A4	TGAGCGCACGCG	DeLong	yes	DeLong	A_35_M_7_B_D2	A	35	M	7	B	D2	experiment	A_35	A_M	A_7	35_M	35_7	M_7	A_35_M	A_35_7	35_M_7	A_35_M_7	3.48	y	R1
+A-35-M-7-C-D2							A_35_M_7_C_D2	A	35	M	7	C	D2	experiment	A_35	A_M	A_7	35_M	35_7	M_7	A_35_M	A_35_7	35_M_7	A_35_M_7	3.48	y	R2
+425							A_35_M_9_A_D2	A	35	M	9	A	D2	experiment	A_35	A_M	A_9	35_M	35_9	M_9	A_35_M	A_35_9	35_M_9	A_35_M_9	3.48	y	R2
+314							A_35_M_9_B_D2	A	35	M	9	B	D2	experiment	A_35	A_M	A_9	35_M	35_9	M_9	A_35_M	A_35_9	35_M_9	A_35_M_9	3.48	y	R2
+A-35-M-9-C-D2							A_35_M_9_C_D2	A	35	M	9	C	D2	experiment	A_35	A_M	A_9	35_M	35_9	M_9	A_35_M	A_35_9	35_M_9	A_35_M_9	3.48	y	R2
+A_45_M_5_A_D2	8	G12	TAGGTCTAGGTC	DeLong	yes	DeLong	A_45_M_5_A_D2	A	45	M	5	A	D2	experiment	A_45	A_M	A_5	45_M	45_5	M_5	A_45_M	A_45_5	45_M_5	A_45_M_5	3.48	y	R1
+299							A_45_M_5_B_D2	A	45	M	5	B	D2	experiment	A_45	A_M	A_5	45_M	45_5	M_5	A_45_M	A_45_5	45_M_5	A_45_M_5	3.48	y	R2
+A_45_M_5_C_D2	8	C1	TCAATGACCGCA	DeLong	yes	DeLong	A_45_M_5_C_D2	A	45	M	5	C	D2	experiment	A_45	A_M	A_5	45_M	45_5	M_5	A_45_M	A_45_5	45_M_5	A_45_M_5	3.48	y	R1
+372							A_45_M_7_A_D2	A	45	M	7	A	D2	experiment	A_45	A_M	A_7	45_M	45_7	M_7	A_45_M	A_45_7	45_M_7	A_45_M_7	3.48	y	R2
+A_45_M_7_B_D2	8	F10	ACCCTGGGTATC	DeLong	yes	DeLong	A_45_M_7_B_D2	A	45	M	7	B	D2	experiment	A_45	A_M	A_7	45_M	45_7	M_7	A_45_M	A_45_7	45_M_7	A_45_M_7	3.48	y	R1
+199_R2							A_45_M_7_B_D2_DUP	A	45	M	7	B	D2	experiment	A_45	A_M	A_7	45_M	45_7	M_7	A_45_M	A_45_7	45_M_7	A_45_M_7	3.48	y	R2
+345							A_45_M_7_C_D2	A	45	M	7	C	D2	experiment	A_45	A_M	A_7	45_M	45_7	M_7	A_45_M	A_45_7	45_M_7	A_45_M_7	3.48	y	R2
+245							A_45_M_9_B_D2	A	45	M	9	B	D2	experiment	A_45	A_M	A_9	45_M	45_9	M_9	A_45_M	A_45_9	45_M_9	A_45_M_9	3.48	y	R2
+232							A_45_M_9_C_D2	A	45	M	9	C	D2	experiment	A_45	A_M	A_9	45_M	45_9	M_9	A_45_M	A_45_9	45_M_9	A_45_M_9	3.48	y	R2
+B_35_F_5_A_D2	8	C7	GGAGGGTACCGT	DeLong	yes	DeLong	B_35_F_5_A_D2	B	35	F	5	A	D2	experiment	B_35	B_F	B_5	35_F	35_5	F_5	B_35_F	B_35_5	35_F_5	B_35_F_5	4.8	y	R1
+387							B_35_F_5_B_D2	B	35	F	5	B	D2	experiment	B_35	B_F	B_5	35_F	35_5	F_5	B_35_F	B_35_5	35_F_5	B_35_F_5	4.8	y	R2
+B_35_F_5_C_D2	7	B5	GTGTAATGTAGA	DeLong	yes	DeLong	B_35_F_5_C_D2	B	35	F	5	C	D2	experiment	B_35	B_F	B_5	35_F	35_5	F_5	B_35_F	B_35_5	35_F_5	B_35_F_5	4.8	y	R1
+B_35_F_7_A_D2	8	C9	TGCAACTTGCAG	DeLong	yes	DeLong	B_35_F_7_A_D2	B	35	F	7	A	D2	experiment	B_35	B_F	B_7	35_F	35_7	F_7	B_35_F	B_35_7	35_F_7	B_35_F_7	4.8	y	R1
+250							B_35_F_7_B_D2	B	35	F	7	B	D2	experiment	B_35	B_F	B_7	35_F	35_7	F_7	B_35_F	B_35_7	35_F_7	B_35_F_7	4.8	y	R2
+B-35-F-7-C-D2							B_35_F_7_C_D2	B	35	F	7	C	D2	experiment	B_35	B_F	B_7	35_F	35_7	F_7	B_35_F	B_35_7	35_F_7	B_35_F_7	4.8	y	R2
+439							B_35_F_9_A_D2	B	35	F	9	A	D2	experiment	B_35	B_F	B_9	35_F	35_9	F_9	B_35_F	B_35_9	35_F_9	B_35_F_9	4.8	y	R2
+B-35-F-9-B-D2							B_35_F_9_B_D2	B	35	F	9	B	D2	experiment	B_35	B_F	B_9	35_F	35_9	F_9	B_35_F	B_35_9	35_F_9	B_35_F_9	4.8	y	R2
+B-35-F-9-C-D2							B_35_F_9_C_D2	B	35	F	9	C	D2	experiment	B_35	B_F	B_9	35_F	35_9	F_9	B_35_F	B_35_9	35_F_9	B_35_F_9	4.8	y	R2
+313							B_45_F_5_A_D2	B	45	F	5	A	D2	experiment	B_45	B_F	B_5	45_F	45_5	F_5	B_45_F	B_45_5	45_F_5	B_45_F_5	4.8	y	R2
+354							B_45_F_5_B_D2	B	45	F	5	B	D2	experiment	B_45	B_F	B_5	45_F	45_5	F_5	B_45_F	B_45_5	45_F_5	B_45_F_5	4.8	y	R2
+223							B_45_F_5_C_D2	B	45	F	5	C	D2	experiment	B_45	B_F	B_5	45_F	45_5	F_5	B_45_F	B_45_5	45_F_5	B_45_F_5	4.8	y	R2
+280							B_45_F_7_A_D2	B	45	F	7	A	D2	experiment	B_45	B_F	B_7	45_F	45_7	F_7	B_45_F	B_45_7	45_F_7	B_45_F_7	4.8	y	R2
+417							B_45_F_7_B_D2	B	45	F	7	B	D2	experiment	B_45	B_F	B_7	45_F	45_7	F_7	B_45_F	B_45_7	45_F_7	B_45_F_7	4.8	y	R2
+452							B_45_F_7_C_D2	B	45	F	7	C	D2	experiment	B_45	B_F	B_7	45_F	45_7	F_7	B_45_F	B_45_7	45_F_7	B_45_F_7	4.8	y	R2
+177							B_45_F_9_A_D2	B	45	F	9	A	D2	experiment	B_45	B_F	B_9	45_F	45_9	F_9	B_45_F	B_45_9	45_F_9	B_45_F_9	4.8	y	R2
+B-45-F-9-B-D2							B_45_F_9_B_D2	B	45	F	9	B	D2	experiment	B_45	B_F	B_9	45_F	45_9	F_9	B_45_F	B_45_9	45_F_9	B_45_F_9	4.8	y	R2
+179	8	G1	ATGCAACTCGAA	DeLong	yes	DeLong	B_45_F_9_C_D2	B	45	F	9	C	D2	experiment	B_45	B_F	B_9	45_F	45_9	F_9	B_45_F	B_45_9	45_F_9	B_45_F_9	4.8	y	R1
+214							B_35_M_5_A_D2	B	35	M	5	A	D2	experiment	B_35	B_M	B_5	35_M	35_5	M_5	B_35_M	B_35_5	35_M_5	B_35_M_5	5.7	y	R2
+209							B_35_M_5_B_D2	B	35	M	5	B	D2	experiment	B_35	B_M	B_5	35_M	35_5	M_5	B_35_M	B_35_5	35_M_5	B_35_M_5	5.7	y	R2
+289							B_35_M_5_C_D2	B	35	M	5	C	D2	experiment	B_35	B_M	B_5	35_M	35_5	M_5	B_35_M	B_35_5	35_M_5	B_35_M_5	5.7	y	R2
+433							B_35_M_7_A_D2	B	35	M	7	A	D2	experiment	B_35	B_M	B_7	35_M	35_7	M_7	B_35_M	B_35_7	35_M_7	B_35_M_7	5.7	y	R2
+206							B_35_M_7_B_D2	B	35	M	7	B	D2	experiment	B_35	B_M	B_7	35_M	35_7	M_7	B_35_M	B_35_7	35_M_7	B_35_M_7	5.7	y	R2
+B_35_M_7_C_D2							B_35_M_7_C_D2	B	35	M	7	C	D2	experiment	B_35	B_M	B_7	35_M	35_7	M_7	B_35_M	B_35_7	35_M_7	B_35_M_7	5.7	y	R2
+397							B_35_M_9_A_D2	B	35	M	9	A	D2	experiment	B_35	B_M	B_9	35_M	35_9	M_9	B_35_M	B_35_9	35_M_9	B_35_M_9	5.7	y	R2
+B_35_M_9_B_D2	8	C6	CGTAAGATGCCT	DeLong	yes	DeLong	B_35_M_9_B_D2	B	35	M	9	B	D2	experiment	B_35	B_M	B_9	35_M	35_9	M_9	B_35_M	B_35_9	35_M_9	B_35_M_9	5.7	y	R1
+254							B_35_M_9_C_D2	B	35	M	9	C	D2	experiment	B_35	B_M	B_9	35_M	35_9	M_9	B_35_M	B_35_9	35_M_9	B_35_M_9	5.7	y	R2
+B-45-M-5-A-D2							B_45_M_5_A_D2	B	45	M	5	A	D2	experiment	B_45	B_M	B_5	45_M	45_5	M_5	B_45_M	B_45_5	45_M_5	B_45_M_5	5.7	y	R2
+B_45_M_5_B_D2	8	C12	GTTGTATTATAC	DeLong	yes	DeLong	B_45_M_5_B_D2	B	45	M	5	B	D2	experiment	B_45	B_M	B_5	45_M	45_5	M_5	B_45_M	B_45_5	45_M_5	B_45_M_5	5.7	y	R1
+283							B_45_M_5_C_D2	B	45	M	5	C	D2	experiment	B_45	B_M	B_5	45_M	45_5	M_5	B_45_M	B_45_5	45_M_5	B_45_M_5	5.7	y	R2
+B-45-M-7-A-D2							B_45_M_7_A_D2	B	45	M	7	A	D2	experiment	B_45	B_M	B_7	45_M	45_7	M_7	B_45_M	B_45_7	45_M_7	B_45_M_7	5.7	y	R2
+243							B_45_M_7_B_D2	B	45	M	7	B	D2	experiment	B_45	B_M	B_7	45_M	45_7	M_7	B_45_M	B_45_7	45_M_7	B_45_M_7	5.7	y	R2
+B_45_M_9_A_D2	8	B4	CGAGTATACAAC	DeLong	yes	DeLong	B_45_M_9_A_D2	B	45	M	9	A	D2	experiment	B_45	B_M	B_9	45_M	45_9	M_9	B_45_M	B_45_9	45_M_9	B_45_M_9	5.7	y	R1
+171	8	A5	CATGAGACTGTA	DeLong	yes	DeLong	B_45_M_9_B_D2	B	45	M	9	B	D2	experiment	B_45	B_M	B_9	45_M	45_9	M_9	B_45_M	B_45_9	45_M_9	B_45_M_9	5.7	y	R1
+392							B_45_M_9_C_D2	B	45	M	9	C	D2	experiment	B_45	B_M	B_9	45_M	45_9	M_9	B_45_M	B_45_9	45_M_9	B_45_M_9	5.7	y	R2
+375							T_55_F_5_A_D2	A	55	F	5	A	D2	experiment	A_55	A_F	A_5	55_F	55_5	F_5	A_55_F	A_55_5	55_F_5	A_55_F_5	2.7	y	R2
+258							T_55_F_5_B_D2	A	55	F	5	B	D2	experiment	A_55	A_F	A_5	55_F	55_5	F_5	A_55_F	A_55_5	55_F_5	A_55_F_5	2.7	y	R2
+440							T_55_F_5_C_D2	A	55	F	5	C	D2	experiment	A_55	A_F	A_5	55_F	55_5	F_5	A_55_F	A_55_5	55_F_5	A_55_F_5	2.7	y	R2
+216							T_55_F_7_A_D2	A	55	F	7	A	D2	experiment	A_55	A_F	A_7	55_F	55_7	F_7	A_55_F	A_55_7	55_F_7	A_55_F_7	2.7	y	R2
+T_55_F_7_C_D2	8	H6	GAAGGAAAGTAG	DeLong	yes	DeLong	T_55_F_7_C_D2	A	55	F	7	C	D2	experiment	A_55	A_F	A_7	55_F	55_7	F_7	A_55_F	A_55_7	55_F_7	A_55_F_7	2.7	y	R1
+319							T_55_F_9_A_D2	A	55	F	9	A	D2	experiment	A_55	A_F	A_9	55_F	55_9	F_9	A_55_F	A_55_9	55_F_9	A_55_F_9	2.7	y	R2
+369							T_55_F_9_B_D2	A	55	F	9	B	D2	experiment	A_55	A_F	A_9	55_F	55_9	F_9	A_55_F	A_55_9	55_F_9	A_55_F_9	2.7	y	R2
+368							T_55_F_9_C_D2	A	55	F	9	C	D2	experiment	A_55	A_F	A_9	55_F	55_9	F_9	A_55_F	A_55_9	55_F_9	A_55_F_9	2.7	y	R2
+T_55_M_5_A_D2	8	H2	ATTGGGACATAA	DeLong	yes	DeLong	T_55_M_5_A_D2	A	55	M	5	A	D2	experiment	A_55	A_M	A_5	55_M	55_5	M_5	A_55_M	A_55_5	55_M_5	A_55_M_5	3.5	y	R1
+T_55_M_5_B_D2	8	H5	GAATGACGTTTG	DeLong	yes	DeLong	T_55_M_5_B_D2	A	55	M	5	B	D2	experiment	A_55	A_M	A_5	55_M	55_5	M_5	A_55_M	A_55_5	55_M_5	A_55_M_5	3.5	y	R1
+286							T_55_M_5_C_D2	A	55	M	5	C	D2	experiment	A_55	A_M	A_5	55_M	55_5	M_5	A_55_M	A_55_5	55_M_5	A_55_M_5	3.5	y	R2
+T-55-M-7-A-D2							T_55_M_7_A_D2	A	55	M	7	A	D2	experiment	A_55	A_M	A_7	55_M	55_7	M_7	A_55_M	A_55_7	55_M_7	A_55_M_7	3.5	y	R2
+294							T_55_M_7_B_D2	A	55	M	7	B	D2	experiment	A_55	A_M	A_7	55_M	55_7	M_7	A_55_M	A_55_7	55_M_7	A_55_M_7	3.5	y	R2
+297							T_55_M_7_C_D2	A	55	M	7	C	D2	experiment	A_55	A_M	A_7	55_M	55_7	M_7	A_55_M	A_55_7	55_M_7	A_55_M_7	3.5	y	R2
+437							T_55_M_9_A_D2	A	55	M	9	A	D2	experiment	A_55	A_M	A_9	55_M	55_9	M_9	A_55_M	A_55_9	55_M_9	A_55_M_9	3.5	y	R2
+279							T_55_M_9_B_D2	A	55	M	9	B	D2	experiment	A_55	A_M	A_9	55_M	55_9	M_9	A_55_M	A_55_9	55_M_9	A_55_M_9	3.5	y	R2
+273							T_55_M_9_C_D2	A	55	M	9	C	D2	experiment	A_55	A_M	A_9	55_M	55_9	M_9	A_55_M	A_55_9	55_M_9	A_55_M_9	3.5	y	R2
+248							A_35_F_5_A_D3	A	35	F	5	A	D3	experiment	A_35	A_F	A_5	35_F	35_5	F_5	A_35_F	A_35_5	35_F_5	A_35_F_5	7.2	y	R2
+455							A_35_F_5_B_D3	A	35	F	5	B	D3	experiment	A_35	A_F	A_5	35_F	35_5	F_5	A_35_F	A_35_5	35_F_5	A_35_F_5	7.2	y	R2
+A_35_F_5_C_D3	8	D10	GGTCTCCTACAG	DeLong	yes	DeLong	A_35_F_5_C_D3	A	35	F	5	C	D3	experiment	A_35	A_F	A_5	35_F	35_5	F_5	A_35_F	A_35_5	35_F_5	A_35_F_5	7.2	y	R1
+358							A_35_F_7_A_D3	A	35	F	7	A	D3	experiment	A_35	A_F	A_7	35_F	35_7	F_7	A_35_F	A_35_7	35_F_7	A_35_F_7	7.2	y	R2
+A_35_F_7_B_D3	7	B1	GGAATCCGATTA	DeLong	yes	DeLong	A_35_F_7_B_D3	A	35	F	7	B	D3	experiment	A_35	A_F	A_7	35_F	35_7	F_7	A_35_F	A_35_7	35_F_7	A_35_F_7	7.2	y	R1
+298							A_35_F_7_C_D3	A	35	F	7	C	D3	experiment	A_35	A_F	A_7	35_F	35_7	F_7	A_35_F	A_35_7	35_F_7	A_35_F_7	7.2	y	R2
+456							A_35_F_9_A_D3	A	35	F	9	A	D3	experiment	A_35	A_F	A_9	35_F	35_9	F_9	A_35_F	A_35_9	35_F_9	A_35_F_9	7.2	y	R2
+308							A_35_F_9_B_D3	A	35	F	9	B	D3	experiment	A_35	A_F	A_9	35_F	35_9	F_9	A_35_F	A_35_9	35_F_9	A_35_F_9	7.2	y	R2
+405							A_35_F_9_C_D3	A	35	F	9	C	D3	experiment	A_35	A_F	A_9	35_F	35_9	F_9	A_35_F	A_35_9	35_F_9	A_35_F_9	7.2	y	R2
+411							A_45_F_5_A_D3	A	45	F	5	A	D3	experiment	A_45	A_F	A_5	45_F	45_5	F_5	A_45_F	A_45_5	45_F_5	A_45_F_5	7.2	y	R2
+A_45_F_5_B_D3	8	D8	CTGTTACAGCGA	DeLong	yes	DeLong	A_45_F_5_B_D3	A	45	F	5	B	D3	experiment	A_45	A_F	A_5	45_F	45_5	F_5	A_45_F	A_45_5	45_F_5	A_45_F_5	7.2	y	R1
+241							A_45_F_5_C_D3	A	45	F	5	C	D3	experiment	A_45	A_F	A_5	45_F	45_5	F_5	A_45_F	A_45_5	45_F_5	A_45_F_5	7.2	y	R2
+311							A_45_F_7_A_D3	A	45	F	7	A	D3	experiment	A_45	A_F	A_7	45_F	45_7	F_7	A_45_F	A_45_7	45_F_7	A_45_F_7	7.2	y	R2
+A-45-F-7-B-D3							A_45_F_7_B_D3	A	45	F	7	B	D3	experiment	A_45	A_F	A_7	45_F	45_7	F_7	A_45_F	A_45_7	45_F_7	A_45_F_7	7.2	y	R2
+218							A_45_F_7_C_D3	A	45	F	7	C	D3	experiment	A_45	A_F	A_7	45_F	45_7	F_7	A_45_F	A_45_7	45_F_7	A_45_F_7	7.2	y	R2
+A_45_F_9_A_D3	8	E9	GCGGAGCACGTC	DeLong	yes	DeLong	A_45_F_9_A_D3	A	45	F	9	A	D3	experiment	A_45	A_F	A_9	45_F	45_9	F_9	A_45_F	A_45_9	45_F_9	A_45_F_9	7.2	y	R1
+252							A_45_F_9_B_D3	A	45	F	9	B	D3	experiment	A_45	A_F	A_9	45_F	45_9	F_9	A_45_F	A_45_9	45_F_9	A_45_F_9	7.2	y	R2
+A_45_F_9_C_D3	8	E11	CCTGGTGTCCGT	DeLong	yes	DeLong	A_45_F_9_C_D3	A	45	F	9	C	D3	experiment	A_45	A_F	A_9	45_F	45_9	F_9	A_45_F	A_45_9	45_F_9	A_45_F_9	7.2	y	R1
+401							A_35_M_5_A_D3	A	35	M	5	A	D3	experiment	A_35	A_M	A_5	35_M	35_5	M_5	A_35_M	A_35_5	35_M_5	A_35_M_5	6.47	y	R2
+A_35_M_5_B_D3	7	H1	AAGGGTTAGTCT	DeLong	yes	DeLong	A_35_M_5_B_D3	A	35	M	5	B	D3	experiment	A_35	A_M	A_5	35_M	35_5	M_5	A_35_M	A_35_5	35_M_5	A_35_M_5	6.47	y	R1
+274							A_35_M_5_C_D3	A	35	M	5	C	D3	experiment	A_35	A_M	A_5	35_M	35_5	M_5	A_35_M	A_35_5	35_M_5	A_35_M_5	6.47	y	R2
+296							A_35_M_7_A_D3	A	35	M	7	A	D3	experiment	A_35	A_M	A_7	35_M	35_7	M_7	A_35_M	A_35_7	35_M_7	A_35_M_7	6.47	y	R2
+448							A_35_M_7_B_D3	A	35	M	7	B	D3	experiment	A_35	A_M	A_7	35_M	35_7	M_7	A_35_M	A_35_7	35_M_7	A_35_M_7	6.47	y	R2
+257							A_35_M_7_C_D3	A	35	M	7	C	D3	experiment	A_35	A_M	A_7	35_M	35_7	M_7	A_35_M	A_35_7	35_M_7	A_35_M_7	6.47	y	R2
+404							A_35_M_9_A_D3	A	35	M	9	A	D3	experiment	A_35	A_M	A_9	35_M	35_9	M_9	A_35_M	A_35_9	35_M_9	A_35_M_9	6.47	y	R2
+390							A_35_M_9_B_D3	A	35	M	9	B	D3	experiment	A_35	A_M	A_9	35_M	35_9	M_9	A_35_M	A_35_9	35_M_9	A_35_M_9	6.47	y	R2
+285							A_35_M_9_C_D3	A	35	M	9	C	D3	experiment	A_35	A_M	A_9	35_M	35_9	M_9	A_35_M	A_35_9	35_M_9	A_35_M_9	6.47	y	R2
+A_45_M_5_A_D3	8	D11	CTCCTGTCCGGA	DeLong	yes	DeLong	A_45_M_5_A_D3	A	45	M	5	A	D3	experiment	A_45	A_M	A_5	45_M	45_5	M_5	A_45_M	A_45_5	45_M_5	A_45_M_5	6.47	y	R1
+341							A_45_M_5_B_D3	A	45	M	5	B	D3	experiment	A_45	A_M	A_5	45_M	45_5	M_5	A_45_M	A_45_5	45_M_5	A_45_M_5	6.47	y	R2
+370							A_45_M_5_C_D3	A	45	M	5	C	D3	experiment	A_45	A_M	A_5	45_M	45_5	M_5	A_45_M	A_45_5	45_M_5	A_45_M_5	6.47	y	R2
+239							A_45_M_7_A_D3	A	45	M	7	A	D3	experiment	A_45	A_M	A_7	45_M	45_7	M_7	A_45_M	A_45_7	45_M_7	A_45_M_7	6.47	y	R2
+328							A_45_M_7_B_D3	A	45	M	7	B	D3	experiment	A_45	A_M	A_7	45_M	45_7	M_7	A_45_M	A_45_7	45_M_7	A_45_M_7	6.47	y	R2
+445							A_45_M_7_C_D3	A	45	M	7	C	D3	experiment	A_45	A_M	A_7	45_M	45_7	M_7	A_45_M	A_45_7	45_M_7	A_45_M_7	6.47	y	R2
+A_45_M_9_A_D3	7	G8	TCTTAAGATTTG	DeLong	yes	DeLong	A_45_M_9_A_D3	A	45	M	9	A	D3	experiment	A_45	A_M	A_9	45_M	45_9	M_9	A_45_M	A_45_9	45_M_9	A_45_M_9	6.47	y	R1
+400							A_45_M_9_B_D3	A	45	M	9	B	D3	experiment	A_45	A_M	A_9	45_M	45_9	M_9	A_45_M	A_45_9	45_M_9	A_45_M_9	6.47	y	R2
+323							A_45_M_9_C_D3	A	45	M	9	C	D3	experiment	A_45	A_M	A_9	45_M	45_9	M_9	A_45_M	A_45_9	45_M_9	A_45_M_9	6.47	y	R2
+B_35_F_5_A_D3	8	F7	ATAAAGAGGAGG	DeLong	yes	DeLong	B_35_F_5_A_D3	B	35	F	5	A	D3	experiment	B_35	B_F	B_5	35_F	35_5	F_5	B_35_F	B_35_5	35_F_5	B_35_F_5	7.2	y	R1
+B-35-F-5-A-D3							B_35_F_5_A_D3	B	35	F	5	A	D3	experiment	B_35	B_F	B_5	35_F	35_5	F_5	B_35_F	B_35_5	35_F_5	B_35_F_5	7.2	y	R2
+394							B_35_F_5_B_D3	B	35	F	5	B	D3	experiment	B_35	B_F	B_5	35_F	35_5	F_5	B_35_F	B_35_5	35_F_5	B_35_F_5	7.2	y	R2
+B_35_F_5_C_D3	7	B7	TGTATGCTTCTA	DeLong	yes	DeLong	B_35_F_5_C_D3	B	35	F	5	C	D3	experiment	B_35	B_F	B_5	35_F	35_5	F_5	B_35_F	B_35_5	35_F_5	B_35_F_5	7.2	y	R1
+316							B_35_F_7_A_D3	B	35	F	7	A	D3	experiment	B_35	B_F	B_7	35_F	35_7	F_7	B_35_F	B_35_7	35_F_7	B_35_F_7	7.2	y	R2
+B_35_F_7_A_D3							B_35_F_7_A_D3	B	35	F	7	A	D3	experiment	B_35	B_F	B_7	35_F	35_7	F_7	B_35_F	B_35_7	35_F_7	B_35_F_7	7.2	y	R2
+B_35_F_7_B_D3	8	C2	TATCTTCCTGAA	DeLong	yes	DeLong	B_35_F_7_B_D3	B	35	F	7	B	D3	experiment	B_35	B_F	B_7	35_F	35_7	F_7	B_35_F	B_35_7	35_F_7	B_35_F_7	7.2	y	R1
+B-35-F-7-C-D3							B_35_F_7_C_D3	B	35	F	7	C	D3	experiment	B_35	B_F	B_7	35_F	35_7	F_7	B_35_F	B_35_7	35_F_7	B_35_F_7	7.2	y	R2
+210							B_35_F_9_A_D3	B	35	F	9	A	D3	experiment	B_35	B_F	B_9	35_F	35_9	F_9	B_35_F	B_35_9	35_F_9	B_35_F_9	7.2	y	R2
+B-35-F-9-A-D3							B_35_F_9_A_D3	B	35	F	9	A	D3	experiment	B_35	B_F	B_9	35_F	35_9	F_9	B_35_F	B_35_9	35_F_9	B_35_F_9	7.2	y	R2
+B-35-F-9-B-D3							B_35_F_9_B_D3	B	35	F	9	B	D3	experiment	B_35	B_F	B_9	35_F	35_9	F_9	B_35_F	B_35_9	35_F_9	B_35_F_9	7.2	y	R2
+B-35-F-9-C-D3							B_35_F_9_C_D3	B	35	F	9	C	D3	experiment	B_35	B_F	B_9	35_F	35_9	F_9	B_35_F	B_35_9	35_F_9	B_35_F_9	7.2	y	R2
+263							B_45_F_5_A_D3	B	45	F	5	A	D3	experiment	B_45	B_F	B_5	45_F	45_5	F_5	B_45_F	B_45_5	45_F_5	B_45_F_5	7.2	y	R2
+208							B_45_F_5_B_D3	B	45	F	5	B	D3	experiment	B_45	B_F	B_5	45_F	45_5	F_5	B_45_F	B_45_5	45_F_5	B_45_F_5	7.2	y	R2
+458							B_45_F_5_C_D3	B	45	F	5	C	D3	experiment	B_45	B_F	B_5	45_F	45_5	F_5	B_45_F	B_45_5	45_F_5	B_45_F_5	7.2	y	R2
+381							B_45_F_7_A_D3	B	45	F	7	A	D3	experiment	B_45	B_F	B_7	45_F	45_7	F_7	B_45_F	B_45_7	45_F_7	B_45_F_7	7.2	y	R2
+435							B_45_F_7_B_D3	B	45	F	7	B	D3	experiment	B_45	B_F	B_7	45_F	45_7	F_7	B_45_F	B_45_7	45_F_7	B_45_F_7	7.2	y	R2
+367							B_45_F_7_C_D3	B	45	F	7	C	D3	experiment	B_45	B_F	B_7	45_F	45_7	F_7	B_45_F	B_45_7	45_F_7	B_45_F_7	7.2	y	R2
+B_45_F_9_A_D3							B_45_F_9_A_D3	B	45	F	9	A	D3	experiment	B_45	B_F	B_9	45_F	45_9	F_9	B_45_F	B_45_9	45_F_9	B_45_F_9	7.2	y	R2
+459							B_45_F_9_B_D3	B	45	F	9	B	D3	experiment	B_45	B_F	B_9	45_F	45_9	F_9	B_45_F	B_45_9	45_F_9	B_45_F_9	7.2	y	R2
+B_45_F_9_B_D3							B_45_F_9_B_D3	B	45	F	9	B	D3	experiment	B_45	B_F	B_9	45_F	45_9	F_9	B_45_F	B_45_9	45_F_9	B_45_F_9	7.2	y	R2
+178	8	G6	GTGACTAGTGAT	DeLong	yes	DeLong	B_45_F_9_C_D3	B	45	F	9	C	D3	experiment	B_45	B_F	B_9	45_F	45_9	F_9	B_45_F	B_45_9	45_F_9	B_45_F_9	7.2	y	R1
+B-35-M-5-A-D3							B_35_M_5_A_D3	B	35	M	5	A	D3	experiment	B_35	B_M	B_5	35_M	35_5	M_5	B_35_M	B_35_5	35_M_5	B_35_M_5	11.7	y	R2
+212							B_35_M_5_B_D3	B	35	M	5	B	D3	experiment	B_35	B_M	B_5	35_M	35_5	M_5	B_35_M	B_35_5	35_M_5	B_35_M_5	11.7	y	R2
+B_35_M_5_C_D3	8	F3	GTGTGCTAACGT	DeLong	yes	DeLong	B_35_M_5_C_D3	B	35	M	5	C	D3	experiment	B_35	B_M	B_5	35_M	35_5	M_5	B_35_M	B_35_5	35_M_5	B_35_M_5	11.7	y	R1
+293							B_35_M_7_A_D3	B	35	M	7	A	D3	experiment	B_35	B_M	B_7	35_M	35_7	M_7	B_35_M	B_35_7	35_M_7	B_35_M_7	11.7	y	R2
+249							B_35_M_7_B_D3	B	35	M	7	B	D3	experiment	B_35	B_M	B_7	35_M	35_7	M_7	B_35_M	B_35_7	35_M_7	B_35_M_7	11.7	y	R2
+421							B_35_M_7_C_D3	B	35	M	7	C	D3	experiment	B_35	B_M	B_7	35_M	35_7	M_7	B_35_M	B_35_7	35_M_7	B_35_M_7	11.7	y	R2
+B-35-M-9-A-D3							B_35_M_9_A_D3	B	35	M	9	A	D3	experiment	B_35	B_M	B_9	35_M	35_9	M_9	B_35_M	B_35_9	35_M_9	B_35_M_9	11.7	y	R2
+277							B_35_M_9_B_D3	B	35	M	9	B	D3	experiment	B_35	B_M	B_9	35_M	35_9	M_9	B_35_M	B_35_9	35_M_9	B_35_M_9	11.7	y	R2
+453							B_35_M_9_C_D3	B	35	M	9	C	D3	experiment	B_35	B_M	B_9	35_M	35_9	M_9	B_35_M	B_35_9	35_M_9	B_35_M_9	11.7	y	R2
+270							B_45_M_5_A_D3	B	45	M	5	A	D3	experiment	B_45	B_M	B_5	45_M	45_5	M_5	B_45_M	B_45_5	45_M_5	B_45_M_5	11.7	y	R2
+170	8	E1	GGTCGAATTGCT	DeLong	yes	DeLong	B_45_M_5_B_D3	B	45	M	5	B	D3	experiment	B_45	B_M	B_5	45_M	45_5	M_5	B_45_M	B_45_5	45_M_5	B_45_M_5	11.7	y	R1
+260							B_45_M_5_C_D3	B	45	M	5	C	D3	experiment	B_45	B_M	B_5	45_M	45_5	M_5	B_45_M	B_45_5	45_M_5	B_45_M_5	11.7	y	R2
+399							B_45_M_7_A_D3	B	45	M	7	A	D3	experiment	B_45	B_M	B_7	45_M	45_7	M_7	B_45_M	B_45_7	45_M_7	B_45_M_7	11.7	y	R2
+347							B_45_M_7_B_D3	B	45	M	7	B	D3	experiment	B_45	B_M	B_7	45_M	45_7	M_7	B_45_M	B_45_7	45_M_7	B_45_M_7	11.7	y	R2
+300							B_45_M_7_C_D3	B	45	M	7	C	D3	experiment	B_45	B_M	B_7	45_M	45_7	M_7	B_45_M	B_45_7	45_M_7	B_45_M_7	11.7	y	R2
+B-45-M-9-A-D3							B_45_M_9_A_D3	B	45	M	9	A	D3	experiment	B_45	B_M	B_9	45_M	45_9	M_9	B_45_M	B_45_9	45_M_9	B_45_M_9	11.7	y	R2
+B_45_M_9_B_D3	7	D6	TCTCCTAGGCGC	DeLong	yes	DeLong	B_45_M_9_B_D3	B	45	M	9	B	D3	experiment	B_45	B_M	B_9	45_M	45_9	M_9	B_45_M	B_45_9	45_M_9	B_45_M_9	11.7	y	R1
+B_45_M_9_C_D3	7	E11	TAGCGACCTCAC	DeLong	yes	DeLong	B_45_M_9_C_D3	B	45	M	9	C	D3	experiment	B_45	B_M	B_9	45_M	45_9	M_9	B_45_M	B_45_9	45_M_9	B_45_M_9	11.7	y	R1
+380							T_55_F_5_A_D3	A	55	F	5	A	D3	experiment	A_55	A_F	A_5	55_F	55_5	F_5	A_55_F	A_55_5	55_F_5	A_55_F_5	5.56	y	R2
+338							T_55_F_5_B_D3	A	55	F	5	B	D3	experiment	A_55	A_F	A_5	55_F	55_5	F_5	A_55_F	A_55_5	55_F_5	A_55_F_5	5.56	y	R2
+T-55-F-5-C-D3							T_55_F_5_C_D3	A	55	F	5	C	D3	experiment	A_55	A_F	A_5	55_F	55_5	F_5	A_55_F	A_55_5	55_F_5	A_55_F_5	5.56	y	R2
+T-55-F-7-A-D3							T_55_F_7_A_D3	A	55	F	7	A	D3	experiment	A_55	A_F	A_7	55_F	55_7	F_7	A_55_F	A_55_7	55_F_7	A_55_F_7	5.56	y	R2
+T_55_F_7_B_D3	8	G5	CATCCTGAGCAA	DeLong	yes	DeLong	T_55_F_7_B_D3	A	55	F	7	B	D3	experiment	A_55	A_F	A_7	55_F	55_7	F_7	A_55_F	A_55_7	55_F_7	A_55_F_7	5.56	y	R1
+T_55_F_7_C_D3	8	H4	TCTGATCGAGGT	DeLong	yes	DeLong	T_55_F_7_C_D3	A	55	F	7	C	D3	experiment	A_55	A_F	A_7	55_F	55_7	F_7	A_55_F	A_55_7	55_F_7	A_55_F_7	5.56	y	R1
+231							T_55_F_9_A_D3	A	55	F	9	A	D3	experiment	A_55	A_F	A_9	55_F	55_9	F_9	A_55_F	A_55_9	55_F_9	A_55_F_9	5.56	y	R2
+266							T_55_F_9_B_D3	A	55	F	9	B	D3	experiment	A_55	A_F	A_9	55_F	55_9	F_9	A_55_F	A_55_9	55_F_9	A_55_F_9	5.56	y	R2
+357							T_55_F_9_C_D3	A	55	F	9	C	D3	experiment	A_55	A_F	A_9	55_F	55_9	F_9	A_55_F	A_55_9	55_F_9	A_55_F_9	5.56	y	R2
+320							T_55_M_5_A_D3	A	55	M	5	A	D3	experiment	A_55	A_M	A_5	55_M	55_5	M_5	A_55_M	A_55_5	55_M_5	A_55_M_5	6.42	y	R2
+318							T_55_M_5_B_D3	A	55	M	5	B	D3	experiment	A_55	A_M	A_5	55_M	55_5	M_5	A_55_M	A_55_5	55_M_5	A_55_M_5	6.42	y	R2
+T-55-M-5-C-D3							T_55_M_5_C_D3	A	55	M	5	C	D3	experiment	A_55	A_M	A_5	55_M	55_5	M_5	A_55_M	A_55_5	55_M_5	A_55_M_5	6.42	y	R2
+346							T_55_M_7_A_D3	A	55	M	7	A	D3	experiment	A_55	A_M	A_7	55_M	55_7	M_7	A_55_M	A_55_7	55_M_7	A_55_M_7	6.42	y	R2
+T-55-M-7-B-D3							T_55_M_7_B_D3	A	55	M	7	B	D3	experiment	A_55	A_M	A_7	55_M	55_7	M_7	A_55_M	A_55_7	55_M_7	A_55_M_7	6.42	y	R2
+251							T_55_M_7_C_D3	A	55	M	7	C	D3	experiment	A_55	A_M	A_7	55_M	55_7	M_7	A_55_M	A_55_7	55_M_7	A_55_M_7	6.42	y	R2
+T_55_M_9_A_D3	8	G8	CACTTGCTCTCT	DeLong	yes	DeLong	T_55_M_9_A_D3	A	55	M	9	A	D3	experiment	A_55	A_M	A_9	55_M	55_9	M_9	A_55_M	A_55_9	55_M_9	A_55_M_9	6.42	y	R1
+T_55_M_9_B_D3	8	F1	TTACCACATCTA	DeLong	yes	DeLong	T_55_M_9_B_D3	A	55	M	9	B	D3	experiment	A_55	A_M	A_9	55_M	55_9	M_9	A_55_M	A_55_9	55_M_9	A_55_M_9	6.42	y	R1
+396							T_55_M_9_C_D3	A	55	M	9	C	D3	experiment	A_55	A_M	A_9	55_M	55_9	M_9	A_55_M	A_55_9	55_M_9	A_55_M_9	6.42	y	R2
+A-35-F-5-A-D4							A_35_F_5_A_D4	A	35	F	5	A	D4	experiment	A_35	A_F	A_5	35_F	35_5	F_5	A_35_F	A_35_5	35_F_5	A_35_F_5	11.3	y	R2
+A-35-F-5-A-D4_REP							A_35_F_5_A_D4_REP	A	35	F	5	A	D4	experiment	A_35	A_F	A_5	35_F	35_5	F_5	A_35_F	A_35_5	35_F_5	A_35_F_5	11.3	y	R2
+A-35-F-5-B-D4							A_35_F_5_B_D4	A	35	F	5	B	D4	experiment	A_35	A_F	A_5	35_F	35_5	F_5	A_35_F	A_35_5	35_F_5	A_35_F_5	11.3	y	R2
+A-35-F-5-C-D4							A_35_F_5_C_D4	A	35	F	5	C	D4	experiment	A_35	A_F	A_5	35_F	35_5	F_5	A_35_F	A_35_5	35_F_5	A_35_F_5	11.3	y	R2
+A-35-F-7-A-D4							A_35_F_7_A_D4	A	35	F	7	A	D4	experiment	A_35	A_F	A_7	35_F	35_7	F_7	A_35_F	A_35_7	35_F_7	A_35_F_7	11.3	y	R2
+A-35-F-7-A-D4_REP							A_35_F_7_A_D4_REP	A	35	F	7	A	D4	experiment	A_35	A_F	A_7	35_F	35_7	F_7	A_35_F	A_35_7	35_F_7	A_35_F_7	11.3	y	R2
+A_35_F_7_B_D4							A_35_F_7_B_D4	A	35	F	7	B	D4	experiment	A_35	A_F	A_7	35_F	35_7	F_7	A_35_F	A_35_7	35_F_7	A_35_F_7	11.3	y	R2
+A_35_F_7_C_D4							A_35_F_7_C_D4	A	35	F	7	C	D4	experiment	A_35	A_F	A_7	35_F	35_7	F_7	A_35_F	A_35_7	35_F_7	A_35_F_7	11.3	y	R2
+A_35_F_9_A_D4							A_35_F_9_A_D4	A	35	F	9	A	D4	experiment	A_35	A_F	A_9	35_F	35_9	F_9	A_35_F	A_35_9	35_F_9	A_35_F_9	11.3	y	R2
+A_35_F_9_A_D4_REP							A_35_F_9_A_D4_REP	A	35	F	9	A	D4	experiment	A_35	A_F	A_9	35_F	35_9	F_9	A_35_F	A_35_9	35_F_9	A_35_F_9	11.3	y	R2
+A-35-F-9-B-D4							A_35_F_9_B_D4	A	35	F	9	B	D4	experiment	A_35	A_F	A_9	35_F	35_9	F_9	A_35_F	A_35_9	35_F_9	A_35_F_9	11.3	y	R2
+A-35-F-9-C-D4							A_35_F_9_C_D4	A	35	F	9	C	D4	experiment	A_35	A_F	A_9	35_F	35_9	F_9	A_35_F	A_35_9	35_F_9	A_35_F_9	11.3	y	R2
+A-45-F-5-A-D4							A_45_F_5_A_D4	A	45	F	5	A	D4	experiment	A_45	A_F	A_5	45_F	45_5	F_5	A_45_F	A_45_5	45_F_5	A_45_F_5	11.3	y	R2
+A_45_F_5_B_D4	8	H1	TTGGTGCCTGTG	DeLong	yes	DeLong	A_45_F_5_B_D4	A	45	F	5	B	D4	experiment	A_45	A_F	A_5	45_F	45_5	F_5	A_45_F	A_45_5	45_F_5	A_45_F_5	11.3	y	R1
+A_45_F_5_C_D4	8	G2	ATCATCTCGGCG	DeLong	yes	DeLong	A_45_F_5_C_D4	A	45	F	5	C	D4	experiment	A_45	A_F	A_5	45_F	45_5	F_5	A_45_F	A_45_5	45_F_5	A_45_F_5	11.3	y	R1
+A_45_F_7_A_D4	8	E4	CTAATATTTGAA	DeLong	yes	DeLong	A_45_F_7_A_D4	A	45	F	7	A	D4	experiment	A_45	A_F	A_7	45_F	45_7	F_7	A_45_F	A_45_7	45_F_7	A_45_F_7	11.3	y	R1
+A_45_F_7_B_D4	8	D3	AAGGTGGACAAG	DeLong	yes	DeLong	A_45_F_7_B_D4	A	45	F	7	B	D4	experiment	A_45	A_F	A_7	45_F	45_7	F_7	A_45_F	A_45_7	45_F_7	A_45_F_7	11.3	y	R1
+A-45-F-7-C-D4							A_45_F_7_C_D4	A	45	F	7	C	D4	experiment	A_45	A_F	A_7	45_F	45_7	F_7	A_45_F	A_45_7	45_F_7	A_45_F_7	11.3	y	R2
+A-45-F-9-A-D4							A_45_F_9_A_D4	A	45	F	9	A	D4	experiment	A_45	A_F	A_9	45_F	45_9	F_9	A_45_F	A_45_9	45_F_9	A_45_F_9	11.3	y	R2
+A-45-F-9-B-D4							A_45_F_9_B_D4	A	45	F	9	B	D4	experiment	A_45	A_F	A_9	45_F	45_9	F_9	A_45_F	A_45_9	45_F_9	A_45_F_9	11.3	y	R2
+A-45-F-9-C-D4							A_45_F_9_C_D4	A	45	F	9	C	D4	experiment	A_45	A_F	A_9	45_F	45_9	F_9	A_45_F	A_45_9	45_F_9	A_45_F_9	11.3	y	R2
+429							A_35_M_5_A_D4	A	35	M	5	A	D4	experiment	A_35	A_M	A_5	35_M	35_5	M_5	A_35_M	A_35_5	35_M_5	A_35_M_5	11.29	y	R2
+444							A_35_M_5_B_D4	A	35	M	5	B	D4	experiment	A_35	A_M	A_5	35_M	35_5	M_5	A_35_M	A_35_5	35_M_5	A_35_M_5	11.29	y	R2
+309							A_35_M_7_A_D4	A	35	M	7	A	D4	experiment	A_35	A_M	A_7	35_M	35_7	M_7	A_35_M	A_35_7	35_M_7	A_35_M_7	11.29	y	R2
+A_35_M_7_B_D4							A_35_M_7_B_D4	A	35	M	7	B	D4	experiment	A_35	A_M	A_7	35_M	35_7	M_7	A_35_M	A_35_7	35_M_7	A_35_M_7	11.29	y	R2
+386							A_35_M_7_C_D4	A	35	M	7	C	D4	experiment	A_35	A_M	A_7	35_M	35_7	M_7	A_35_M	A_35_7	35_M_7	A_35_M_7	11.29	y	R2
+335							A_35_M_9_A_D4	A	35	M	9	A	D4	experiment	A_35	A_M	A_9	35_M	35_9	M_9	A_35_M	A_35_9	35_M_9	A_35_M_9	11.29	y	R2
+A-35-M-9-A-D4							A_35_M_9_A_D4	A	35	M	9	A	D4	experiment	A_35	A_M	A_9	35_M	35_9	M_9	A_35_M	A_35_9	35_M_9	A_35_M_9	11.29	y	R2
+A-35-M-9-B-D4							A_35_M_9_B_D4	A	35	M	9	B	D4	experiment	A_35	A_M	A_9	35_M	35_9	M_9	A_35_M	A_35_9	35_M_9	A_35_M_9	11.29	y	R2
+A-35-M-9-C-D4							A_35_M_9_C_D4	A	35	M	9	C	D4	experiment	A_35	A_M	A_9	35_M	35_9	M_9	A_35_M	A_35_9	35_M_9	A_35_M_9	11.29	y	R2
+281							A_45_M_5_A_D4	A	45	M	5	A	D4	experiment	A_45	A_M	A_5	45_M	45_5	M_5	A_45_M	A_45_5	45_M_5	A_45_M_5	11.29	y	R2
+438							A_45_M_5_B_D4	A	45	M	5	B	D4	experiment	A_45	A_M	A_5	45_M	45_5	M_5	A_45_M	A_45_5	45_M_5	A_45_M_5	11.29	y	R2
+436							A_45_M_5_C_D4	A	45	M	5	C	D4	experiment	A_45	A_M	A_5	45_M	45_5	M_5	A_45_M	A_45_5	45_M_5	A_45_M_5	11.29	y	R2
+247							A_45_M_7_A_D4	A	45	M	7	A	D4	experiment	A_45	A_M	A_7	45_M	45_7	M_7	A_45_M	A_45_7	45_M_7	A_45_M_7	11.29	y	R2
+451							A_45_M_7_B_D4	A	45	M	7	B	D4	experiment	A_45	A_M	A_7	45_M	45_7	M_7	A_45_M	A_45_7	45_M_7	A_45_M_7	11.29	y	R2
+213							A_45_M_7_C_D4	A	45	M	7	C	D4	experiment	A_45	A_M	A_7	45_M	45_7	M_7	A_45_M	A_45_7	45_M_7	A_45_M_7	11.29	y	R2
+233							A_45_M_9_A_D4	A	45	M	9	A	D4	experiment	A_45	A_M	A_9	45_M	45_9	M_9	A_45_M	A_45_9	45_M_9	A_45_M_9	11.29	y	R2
+383							A_45_M_9_B_D4	A	45	M	9	B	D4	experiment	A_45	A_M	A_9	45_M	45_9	M_9	A_45_M	A_45_9	45_M_9	A_45_M_9	11.29	y	R2
+A_45_M_9_C_D4	8	E5	GAGCATTACATG	DeLong	yes	DeLong	A_45_M_9_C_D4	A	45	M	9	C	D4	experiment	A_45	A_M	A_9	45_M	45_9	M_9	A_45_M	A_45_9	45_M_9	A_45_M_9	11.29	y	R1
+332							B_35_F_5_A_D4	B	35	F	5	A	D4	experiment	B_35	B_F	B_5	35_F	35_5	F_5	B_35_F	B_35_5	35_F_5	B_35_F_5	13.7	y	R2
+268							B_35_F_5_B_D4	B	35	F	5	B	D4	experiment	B_35	B_F	B_5	35_F	35_5	F_5	B_35_F	B_35_5	35_F_5	B_35_F_5	13.7	y	R2
+238							B_35_F_5_C_D4	B	35	F	5	C	D4	experiment	B_35	B_F	B_5	35_F	35_5	F_5	B_35_F	B_35_5	35_F_5	B_35_F_5	13.7	y	R2
+184							B_35_F_7_A_D4	B	35	F	7	A	D4	experiment	B_35	B_F	B_7	35_F	35_7	F_7	B_35_F	B_35_7	35_F_7	B_35_F_7	13.7	y	R2
+424							B_35_F_7_B_D4	B	35	F	7	B	D4	experiment	B_35	B_F	B_7	35_F	35_7	F_7	B_35_F	B_35_7	35_F_7	B_35_F_7	13.7	y	R2
+B-35-F-7-C-D4							B_35_F_7_C_D4	B	35	F	7	C	D4	experiment	B_35	B_F	B_7	35_F	35_7	F_7	B_35_F	B_35_7	35_F_7	B_35_F_7	13.7	y	R2
+409							B_35_F_9_A_D4	B	35	F	9	A	D4	experiment	B_35	B_F	B_9	35_F	35_9	F_9	B_35_F	B_35_9	35_F_9	B_35_F_9	13.7	y	R2
+B_35_F_9_B_D4	8	C11	TACGTTTGGCGA	DeLong	yes	DeLong	B_35_F_9_B_D4	B	35	F	9	B	D4	experiment	B_35	B_F	B_9	35_F	35_9	F_9	B_35_F	B_35_9	35_F_9	B_35_F_9	13.7	y	R1
+356							B_35_F_9_C_D4	B	35	F	9	C	D4	experiment	B_35	B_F	B_9	35_F	35_9	F_9	B_35_F	B_35_9	35_F_9	B_35_F_9	13.7	y	R2
+B_45_F_5_A_D4	8	F9	AAGCTAAAGCTA	DeLong	yes	DeLong	B_45_F_5_A_D4	B	45	F	5	A	D4	experiment	B_45	B_F	B_5	45_F	45_5	F_5	B_45_F	B_45_5	45_F_5	B_45_F_5	13.7	y	R1
+B_45_F_5_B_D4	8	C4	TAAGCGTCTCGA	DeLong	yes	DeLong	B_45_F_5_B_D4	B	45	F	5	B	D4	experiment	B_45	B_F	B_5	45_F	45_5	F_5	B_45_F	B_45_5	45_F_5	B_45_F_5	13.7	y	R1
+226							B_45_F_5_C_D4	B	45	F	5	C	D4	experiment	B_45	B_F	B_5	45_F	45_5	F_5	B_45_F	B_45_5	45_F_5	B_45_F_5	13.7	y	R2
+384							B_45_F_7_A_D4	B	45	F	7	A	D4	experiment	B_45	B_F	B_7	45_F	45_7	F_7	B_45_F	B_45_7	45_F_7	B_45_F_7	13.7	y	R2
+B-45-F-7-B-D4							B_45_F_7_B_D4	B	45	F	7	B	D4	experiment	B_45	B_F	B_7	45_F	45_7	F_7	B_45_F	B_45_7	45_F_7	B_45_F_7	13.7	y	R2
+B-45-F-7-C-D4							B_45_F_7_C_D4	B	45	F	7	C	D4	experiment	B_45	B_F	B_7	45_F	45_7	F_7	B_45_F	B_45_7	45_F_7	B_45_F_7	13.7	y	R2
+B-45-F-9-A-D4							B_45_F_9_A_D4	B	45	F	9	A	D4	experiment	B_45	B_F	B_9	45_F	45_9	F_9	B_45_F	B_45_9	45_F_9	B_45_F_9	13.7	y	R2
+B_45_F_9_B_D4	8	B6	ACAAGTGCTGCT	DeLong	yes	DeLong	B_45_F_9_B_D4	B	45	F	9	B	D4	experiment	B_45	B_F	B_9	45_F	45_9	F_9	B_45_F	B_45_9	45_F_9	B_45_F_9	13.7	y	R1
+B-45-F-9-C-D4							B_45_F_9_C_D4	B	45	F	9	C	D4	experiment	B_45	B_F	B_9	45_F	45_9	F_9	B_45_F	B_45_9	45_F_9	B_45_F_9	13.7	y	R2
+427							B_35_M_5_A_D4	B	35	M	5	A	D4	experiment	B_35	B_M	B_5	35_M	35_5	M_5	B_35_M	B_35_5	35_M_5	B_35_M_5	11.3	y	R2
+333							B_35_M_5_B_D4	B	35	M	5	B	D4	experiment	B_35	B_M	B_5	35_M	35_5	M_5	B_35_M	B_35_5	35_M_5	B_35_M_5	11.3	y	R2
+376							B_35_M_5_C_D4	B	35	M	5	C	D4	experiment	B_35	B_M	B_5	35_M	35_5	M_5	B_35_M	B_35_5	35_M_5	B_35_M_5	11.3	y	R2
+443							B_35_M_7_A_D4	B	35	M	7	A	D4	experiment	B_35	B_M	B_7	35_M	35_7	M_7	B_35_M	B_35_7	35_M_7	B_35_M_7	11.3	y	R2
+377							B_35_M_7_B_D4	B	35	M	7	B	D4	experiment	B_35	B_M	B_7	35_M	35_7	M_7	B_35_M	B_35_7	35_M_7	B_35_M_7	11.3	y	R2
+324							B_35_M_7_C_D4	B	35	M	7	C	D4	experiment	B_35	B_M	B_7	35_M	35_7	M_7	B_35_M	B_35_7	35_M_7	B_35_M_7	11.3	y	R2
+B-35-M-9-A-D4							B_35_M_9_A_D4	B	35	M	9	A	D4	experiment	B_35	B_M	B_9	35_M	35_9	M_9	B_35_M	B_35_9	35_M_9	B_35_M_9	11.3	y	R2
+B-35-M-9-A-D4_REP							B_35_M_9_A_D4_REP	B	35	M	9	A	D4	experiment	B_35	B_M	B_9	35_M	35_9	M_9	B_35_M	B_35_9	35_M_9	B_35_M_9	11.3	y	R2
+B-35-M-9-B-D4							B_35_M_9_B_D4	B	35	M	9	B	D4	experiment	B_35	B_M	B_9	35_M	35_9	M_9	B_35_M	B_35_9	35_M_9	B_35_M_9	11.3	y	R2
+348							B_35_M_9_C_D4	B	35	M	9	C	D4	experiment	B_35	B_M	B_9	35_M	35_9	M_9	B_35_M	B_35_9	35_M_9	B_35_M_9	11.3	y	R2
+B_45_M_5_B_D4	8	A6	TTACCCGCACAG	DeLong	yes	DeLong	B_45_M_5_B_D4	B	45	M	5	B	D4	experiment	B_45	B_M	B_5	45_M	45_5	M_5	B_45_M	B_45_5	45_M_5	B_45_M_5	11.7	y	R1
+B-45-M-5-C-D4							B_45_M_5_C_D4	B	45	M	5	C	D4	experiment	B_45	B_M	B_5	45_M	45_5	M_5	B_45_M	B_45_5	45_M_5	B_45_M_5	11.3	y	R2
+168	8	E7	CAATATTCAATA	DeLong	yes	DeLong	B_45_M_7_A_D4	B	45	M	7	A	D4	experiment	B_45	B_M	B_7	45_M	45_7	M_7	B_45_M	B_45_7	45_M_7	B_45_M_7	11.3	y	R1
+454							B_45_M_7_B_D4	B	45	M	7	B	D4	experiment	B_45	B_M	B_7	45_M	45_7	M_7	B_45_M	B_45_7	45_M_7	B_45_M_7	11.3	y	R2
+267							B_45_M_7_C_D4	B	45	M	7	C	D4	experiment	B_45	B_M	B_7	45_M	45_7	M_7	B_45_M	B_45_7	45_M_7	B_45_M_7	11.3	y	R2
+371							B_45_M_9_A_D4	B	45	M	9	A	D4	experiment	B_45	B_M	B_9	45_M	45_9	M_9	B_45_M	B_45_9	45_M_9	B_45_M_9	11.3	y	R2
+229							B_45_M_9_B_D4	B	45	M	9	B	D4	experiment	B_45	B_M	B_9	45_M	45_9	M_9	B_45_M	B_45_9	45_M_9	B_45_M_9	11.3	y	R2
+244							B_45_M_9_C_D4	B	45	M	9	C	D4	experiment	B_45	B_M	B_9	45_M	45_9	M_9	B_45_M	B_45_9	45_M_9	B_45_M_9	11.3	y	R2
+269							T_55_F_5_A_D4	A	55	F	5	A	D4	experiment	A_55	A_F	A_5	55_F	55_5	F_5	A_55_F	A_55_5	55_F_5	A_55_F_5	8.75	y	R2
+360							T_55_F_5_B_D4	A	55	F	5	B	D4	experiment	A_55	A_F	A_5	55_F	55_5	F_5	A_55_F	A_55_5	55_F_5	A_55_F_5	8.75	y	R2
+T_55_F_5_C_D4	8	H10	GTCACCAATCCG	DeLong	yes	DeLong	T_55_F_5_C_D4	A	55	F	5	C	D4	experiment	A_55	A_F	A_5	55_F	55_5	F_5	A_55_F	A_55_5	55_F_5	A_55_F_5	8.75	y	R1
+446							T_55_F_7_A_D4	A	55	F	7	A	D4	experiment	A_55	A_F	A_7	55_F	55_7	F_7	A_55_F	A_55_7	55_F_7	A_55_F_7	8.75	y	R2
+337							T_55_F_7_B_D4	A	55	F	7	B	D4	experiment	A_55	A_F	A_7	55_F	55_7	F_7	A_55_F	A_55_7	55_F_7	A_55_F_7	8.75	y	R2
+450							T_55_F_7_C_D4	A	55	F	7	C	D4	experiment	A_55	A_F	A_7	55_F	55_7	F_7	A_55_F	A_55_7	55_F_7	A_55_F_7	8.75	y	R2
+301							T_55_F_9_A_D4	A	55	F	9	A	D4	experiment	A_55	A_F	A_9	55_F	55_9	F_9	A_55_F	A_55_9	55_F_9	A_55_F_9	8.75	y	R2
+T_55_F_9_B_D4	8	F2	TGGCATGTTGGT	DeLong	yes	DeLong	T_55_F_9_B_D4	A	55	F	9	B	D4	experiment	A_55	A_F	A_9	55_F	55_9	F_9	A_55_F	A_55_9	55_F_9	A_55_F_9	8.75	y	R1
+T-55-F-9-C-D4							T_55_F_9_C_D4	A	55	F	9	C	D4	experiment	A_55	A_F	A_9	55_F	55_9	F_9	A_55_F	A_55_9	55_F_9	A_55_F_9	8.75	y	R2
+240							T_55_M_5_A_D4	A	55	M	5	A	D4	experiment	A_55	A_M	A_5	55_M	55_5	M_5	A_55_M	A_55_5	55_M_5	A_55_M_5	10.5	y	R2
+431							T_55_M_5_B_D4	A	55	M	5	B	D4	experiment	A_55	A_M	A_5	55_M	55_5	M_5	A_55_M	A_55_5	55_M_5	A_55_M_5	10.5	y	R2
+237							T_55_M_5_C_D4	A	55	M	5	C	D4	experiment	A_55	A_M	A_5	55_M	55_5	M_5	A_55_M	A_55_5	55_M_5	A_55_M_5	10.5	y	R2
+441							T_55_M_7_A_D4	A	55	M	7	A	D4	experiment	A_55	A_M	A_7	55_M	55_7	M_7	A_55_M	A_55_7	55_M_7	A_55_M_7	10.5	y	R2
+304							T_55_M_7_B_D4	A	55	M	7	B	D4	experiment	A_55	A_M	A_7	55_M	55_7	M_7	A_55_M	A_55_7	55_M_7	A_55_M_7	10.5	y	R2
+307							T_55_M_7_C_D4	A	55	M	7	C	D4	experiment	A_55	A_M	A_7	55_M	55_7	M_7	A_55_M	A_55_7	55_M_7	A_55_M_7	10.5	y	R2
+227							T_55_M_9_A_D4	A	55	M	9	A	D4	experiment	A_55	A_M	A_9	55_M	55_9	M_9	A_55_M	A_55_9	55_M_9	A_55_M_9	10.5	y	R2
+T-55-M-9-B-D4							T_55_M_9_B_D4	A	55	M	9	B	D4	experiment	A_55	A_M	A_9	55_M	55_9	M_9	A_55_M	A_55_9	55_M_9	A_55_M_9	10.5	y	R2
+T-55-M-9-C-D4							T_55_M_9_C_D4	A	55	M	9	C	D4	experiment	A_55	A_M	A_9	55_M	55_9	M_9	A_55_M	A_55_9	55_M_9	A_55_M_9	10.5	y	R2
+F1	5	E9	GTAAACGACTTG	DeLong	yes	DeLong	F1	F_R1	F_R1	F	F_R1	F_R1	F_R1	feedstock	F_R1	F_R1	F_R1	F_R1	F_R1	F_R1	F_R1	F_R1	F_R1	F_R1	0	y	R1
+F2	7	F3	CACATTCTATAA	DeLong	yes	DeLong	F2	F_R1	F_R1	F	F_R1	F_R1	F_R1	feedstock	F_R1	F_R1	F_R1	F_R1	F_R1	F_R1	F_R1	F_R1	F_R1	F_R1	0	y	R1
+F3	8	E6	ATATACCTGCGG	DeLong	yes	DeLong	F3	F_R1	F_R1	F	F_R1	F_R1	F_R1	feedstock	F_R1	F_R1	F_R1	F_R1	F_R1	F_R1	F_R1	F_R1	F_R1	F_R1	0	y	R1
+M1	5	H5	CACGCTATTGGA	DeLong	yes	DeLong	M1	M_R1	M_R1	M	M_R1	M_R1	M_R1	feedstock	M_R1	M_R1	M_R1	M_R1	M_R1	M_R1	M_R1	M_R1	M_R1	M_R1	0	y	R1
+M2	7	D8	TCGATAAGTAAG	DeLong	yes	DeLong	M2	M_R1	M_R1	M	M_R1	M_R1	M_R1	feedstock	M_R1	M_R1	M_R1	M_R1	M_R1	M_R1	M_R1	M_R1	M_R1	M_R1	0	y	R1
+M3	8	A11	ACGGTGAAAGCG	DeLong	yes	DeLong	M3	M_R1	M_R1	M	M_R1	M_R1	M_R1	feedstock	M_R1	M_R1	M_R1	M_R1	M_R1	M_R1	M_R1	M_R1	M_R1	M_R1	0	y	R1
+205_O	na	na	na	na	na	na	205_O	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	0	n	R2
+206_O	na	na	na	na	na	na	206_O	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	0	n	R2
+207_O	na	na	na	na	na	na	207_O	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	0	n	R2
+208_O	na	na	na	na	na	na	208_O	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	0	n	R2
+209_O	na	na	na	na	na	na	209_O	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	0	n	R2
+210_O	na	na	na	na	na	na	210_O	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	na	0	n	R2
+BLANK_1	8	A2	GACCATGTAGTA	DeLong	no	DeLong	BLANK_1	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R1
+BLANK_A_2	8	D5	AGAGCTCCTCTG	DeLong	no	DeLong	BLANK_A_2	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R1
+BLANK-A-3	na	na	na	na	na	na	BLANK_A_3	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R2
+BLANK_B_1	7	G9	AAGTAGGAAGGA	DeLong	yes	DeLong	BLANK_B_1	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R1
+BLANK_B_2	8	H3	AGTTCGGCATTG	DeLong	no	DeLong	BLANK_B_2	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R1
+BLANK_B_3	7	H5	TATGCTCTCTCA	DeLong	yes	DeLong	BLANK_B_3	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R1
+BLANK_C_1	8	E10	TCCCGCCTACGC	DeLong	no	DeLong	BLANK_C_1	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R1
+BLANK_D_1	8	B7	CACTCTCCGGCA	DeLong	no	DeLong	BLANK_D_1	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R1
+BLANK_D_2	8	G7	TCATGTGAACGA	DeLong	no	DeLong	BLANK_D_2	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R1
+BLANK_D_3	5	A9	ACATAGCGGTTC	DeLong	yes	DeLong	BLANK_D_3	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R1
+BLANK_F_3	7	B9	CGATATCAGTAG	DeLong	yes	DeLong	BLANK_F_3	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R1
+BLANK_G_1	6	B3	ATTTGCTTTGCC	DeLong	yes	DeLong	BLANK_G_1	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R1
+BLANK_G_2	6	E9	CAAATGGTCGTC	DeLong	yes	DeLong	BLANK_G_2	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R1
+BLANK_H_1	6	A7	TGGCCGTTACTG	DeLong	yes	DeLong	BLANK_H_1	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R1
+BLANK_I_1	6	G5	AATCTAACAATT	DeLong	yes	DeLong	BLANK_I_1	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R1
+242	na	na	na	na	na	na	BLANK_J_3	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R2
+BLANK_L_2	7	E7	GTCTGACGGTCT	DeLong	yes	DeLong	BLANK_L_2	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R1
+373	na	na	na	na	na	na	BLANK_N_2	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R2
+449	na	na	na	na	na	na	BLANK_P_2	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	n	R2
+F_feb23	na	na	na	na	na	na	F_feb23	F_R2	F_R2	F	F_R2	F_R2	F_R2	feedstock	F_R2	F_R2	F_R2	F_R2	F_R2	F_R2	F_R2	F_R2	F_R2	F_R2	0	y	R2
+M_feb23	na	na	na	na	na	na	M_feb23	M_R2	M_R2	M	M_R2	M_R2	M_R2	feedstock	M_R2	M_R2	M_R2	M_R2	M_R2	M_R2	M_R2	M_R2	M_R2	M_R2	0	y	R2
+MOCK_1	5	G2	GTGAGGGCAAGT	DeLong	yes	DeLong	MOCK_1	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	0	n	R1
+MOCK_2	5	F7	ATGCCGGTAATA	DeLong	yes	DeLong	MOCK_2	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	0	n	R1
+MOCK_3	6	C3	ACCCGGATTTCG	DeLong	yes	DeLong	MOCK_3	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	0	n	R1
+MOCK_4	6	H6	ATCGTTATATCA	DeLong	yes	DeLong	MOCK_4	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	0	n	R1
+MOCK_5	7	E3	AGTTATTCTAGT	DeLong	yes	DeLong	MOCK_5	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	0	n	R1
+MOCK_6	7	H8	CTTATAGAGAAG	DeLong	yes	DeLong	MOCK_6	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	0	n	R1
+MOCK_7	8	A3	CTTCGCGGATGT	DeLong	no	DeLong	MOCK_7	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	0	n	R1
+MOCK_8	8	E12	GGTCCCGAAATT	DeLong	no	DeLong	MOCK_8	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	MOCK	0	n	R1
+NTC-3	na	na	na	na	na	na	NTC_3	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	0	y	R2
